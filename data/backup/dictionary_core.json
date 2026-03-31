@@ -1,0 +1,9658 @@
+[
+  {
+    "id": "aak",
+    "literal_meaning": [
+      "guide",
+      "guidance"
+    ],
+    "synonyms": [
+      "guide",
+      "lead",
+      "direct",
+      "navigate",
+      "steer"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "aal",
+    "literal_meaning": [
+      "may",
+      "might"
+    ],
+    "synonyms": [
+      "may",
+      "might",
+      "possibility",
+      "wish",
+      "hope"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "aam",
+    "literal_meaning": [
+      "serve",
+      "loyalty"
+    ],
+    "synonyms": [
+      "serve",
+      "obey",
+      "assist",
+      "support",
+      "loyalty"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "aan",
+    "literal_meaning": [
+      "slave"
+    ],
+    "synonyms": [
+      "slave",
+      "servant",
+      "bond",
+      "thrall"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "aan",
+    "literal_meaning": [
+      "a",
+      "an"
+    ],
+    "synonyms": [
+      "a",
+      "an"
+    ],
+    "word_class": [
+      "article"
+    ]
+  },
+  {
+    "id": "aar",
+    "literal_meaning": [
+      "servant",
+      "slave"
+    ],
+    "synonyms": [
+      "servant",
+      "slave",
+      "follower",
+      "retainer",
+      "vassal"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "aav",
+    "literal_meaning": [
+      "join",
+      "union",
+      "unity"
+    ],
+    "synonyms": [
+      "join",
+      "unite",
+      "merge",
+      "combine",
+      "ally"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "aaz",
+    "literal_meaning": [
+      "mercy",
+      "relent",
+      "respite"
+    ],
+    "synonyms": [
+      "mercy",
+      "pity",
+      "forgive",
+      "spare",
+      "relent"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "ag",
+    "literal_meaning": [
+      "burn",
+      "incineration"
+    ],
+    "synonyms": [
+      "burn",
+      "ignite",
+      "flame",
+      "fire",
+      "incinerate"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "ah",
+    "literal_meaning": [
+      "hunter"
+    ],
+    "synonyms": [
+      "hunter",
+      "tracker",
+      "stalker",
+      "pursuer"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ahkrin",
+    "literal_meaning": [
+      "courage",
+      "bravery"
+    ],
+    "synonyms": [
+      "courage",
+      "bravery",
+      "valor",
+      "boldness",
+      "resolve"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ahmik",
+    "literal_meaning": [
+      "service"
+    ],
+    "synonyms": [
+      "service",
+      "duty",
+      "work",
+      "aid",
+      "help"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ahmul",
+    "literal_meaning": [
+      "husband"
+    ],
+    "synonyms": [
+      "husband",
+      "spouse",
+      "partner",
+      "mate"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ahraan",
+    "literal_meaning": [
+      "wound",
+      "injury",
+      "hurt"
+    ],
+    "synonyms": [
+      "wound",
+      "injure",
+      "hurt",
+      "harm",
+      "damage"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "ahrk",
+    "literal_meaning": [
+      "and"
+    ],
+    "synonyms": [
+      "and"
+    ],
+    "word_class": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "ahrol",
+    "literal_meaning": [
+      "hill"
+    ],
+    "synonyms": [
+      "hill",
+      "mound",
+      "rise",
+      "slope"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ahroldan",
+    "literal_meaning": [
+      "h’roldan"
+    ],
+    "synonyms": [
+      "h’roldan"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ahrolsedovah",
+    "literal_meaning": [
+      "whiterun"
+    ],
+    "synonyms": [
+      "whiterun"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ahst",
+    "literal_meaning": [
+      "at",
+      "towards"
+    ],
+    "synonyms": [
+      "at",
+      "towards",
+      "by",
+      "with"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "ahtiid",
+    "literal_meaning": [
+      "wear",
+      "garments"
+    ],
+    "synonyms": [
+      "wear",
+      "dress",
+      "clothe",
+      "garments",
+      "armor"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "ahzid",
+    "literal_meaning": [
+      "bitter",
+      "bitterness"
+    ],
+    "synonyms": [
+      "bitter",
+      "bitterness",
+      "embitter",
+      "sour",
+      "harsh"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "al",
+    "literal_meaning": [
+      "destroy",
+      "destruction",
+      "destroyer"
+    ],
+    "synonyms": [
+      "destroy",
+      "destruction",
+      "ruin",
+      "break",
+      "shatter"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "alikr",
+    "literal_meaning": [
+      "alik’r"
+    ],
+    "synonyms": [
+      "alik’r"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "alok",
+    "literal_meaning": [
+      "rise"
+    ],
+    "synonyms": [
+      "rise",
+      "arise",
+      "ascend",
+      "lift",
+      "climb"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "alok-dilon",
+    "literal_meaning": [
+      "necromancy"
+    ],
+    "synonyms": [
+      "necromancy",
+      "deathmagic",
+      "raising",
+      "reanimation"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "alun",
+    "literal_meaning": [
+      "ever"
+    ],
+    "synonyms": [
+      "ever",
+      "always",
+      "anytime"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "am",
+    "literal_meaning": [
+      "lion"
+    ],
+    "synonyms": [
+      "lion",
+      "beast",
+      "predator",
+      "cat"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "amativ",
+    "literal_meaning": [
+      "forward",
+      "onward",
+      "ahead"
+    ],
+    "synonyms": [
+      "forward",
+      "onward",
+      "ahead",
+      "forth"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "atmora",
+    "literal_meaning": [
+      "atmora"
+    ],
+    "synonyms": [
+      "atmora"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "aus",
+    "literal_meaning": [
+      "suffer",
+      "suffering"
+    ],
+    "synonyms": [
+      "suffer",
+      "suffering",
+      "endure",
+      "pain",
+      "torment"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "bah",
+    "literal_meaning": [
+      "wrath"
+    ],
+    "synonyms": [
+      "wrath",
+      "anger",
+      "rage",
+      "fury"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "bahlaan",
+    "literal_meaning": [
+      "worthy",
+      "worth",
+      "worthiness"
+    ],
+    "synonyms": [
+      "worthy",
+      "value",
+      "merit",
+      "deserve",
+      "honor"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "bahlok",
+    "literal_meaning": [
+      "hunger"
+    ],
+    "synonyms": [
+      "hunger",
+      "crave",
+      "desire",
+      "lust",
+      "urge"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "balaan",
+    "literal_meaning": [
+      "worthy",
+      "worth",
+      "worthiness"
+    ],
+    "synonyms": [
+      "worthy",
+      "value",
+      "merit",
+      "deserve",
+      "honor"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "bein",
+    "literal_meaning": [
+      "foul",
+      "foulness"
+    ],
+    "synonyms": [
+      "foul",
+      "corrupt",
+      "dirty",
+      "taint",
+      "defile"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "bel",
+    "literal_meaning": [
+      "summon",
+      "summons",
+      "summoning"
+    ],
+    "synonyms": [
+      "summon",
+      "call",
+      "invoke",
+      "bring",
+      "conjure"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "bex",
+    "literal_meaning": [
+      "open",
+      "opening"
+    ],
+    "synonyms": [
+      "open",
+      "unlock",
+      "unseal",
+      "expose",
+      "reveal"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "beyn",
+    "literal_meaning": [
+      "scorn"
+    ],
+    "synonyms": [
+      "scorn",
+      "mock",
+      "despise",
+      "reject",
+      "deride"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "bii",
+    "literal_meaning": [
+      "blue",
+      "blueness"
+    ],
+    "synonyms": [
+      "blue",
+      "azure",
+      "color",
+      "sky"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "bo",
+    "literal_meaning": [
+      "fly",
+      "flow",
+      "move",
+      "arrive",
+      "come"
+    ],
+    "synonyms": [
+      "fly",
+      "flow",
+      "move",
+      "travel",
+      "arrive",
+      "come"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "bodiis",
+    "literal_meaning": [
+      "borrow",
+      "borrowing"
+    ],
+    "synonyms": [
+      "borrow",
+      "take",
+      "loan",
+      "use"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "bok",
+    "literal_meaning": [
+      "age",
+      "era",
+      "time"
+    ],
+    "synonyms": [
+      "age",
+      "era",
+      "time",
+      "period",
+      "duration"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "bolaav",
+    "literal_meaning": [
+      "grant"
+    ],
+    "synonyms": [
+      "grant",
+      "give",
+      "allow",
+      "permit",
+      "bestow"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "bolog",
+    "literal_meaning": [
+      "beg",
+      "begging"
+    ],
+    "synonyms": [
+      "beg",
+      "plead",
+      "ask",
+      "beseech",
+      "request"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "bonaar",
+    "literal_meaning": [
+      "humble",
+      "humility"
+    ],
+    "synonyms": [
+      "humble",
+      "modest",
+      "meek",
+      "lowly"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "bormah",
+    "literal_meaning": [
+      "father",
+      "leader"
+    ],
+    "synonyms": [
+      "father",
+      "leader",
+      "origin",
+      "patriarch"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "bormahu",
+    "literal_meaning": [
+      "akatosh",
+      "father"
+    ],
+    "synonyms": [
+      "akatosh",
+      "father",
+      "origin"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "bovul",
+    "literal_meaning": [
+      "flee",
+      "flight"
+    ],
+    "synonyms": [
+      "flee",
+      "escape",
+      "run",
+      "retreat"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "boziik",
+    "literal_meaning": [
+      "bold",
+      "boldness"
+    ],
+    "synonyms": [
+      "bold",
+      "brave",
+      "daring",
+      "courage"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "brendon",
+    "literal_meaning": [
+      "specter"
+    ],
+    "synonyms": [
+      "specter",
+      "ghost",
+      "spirit",
+      "phantom"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "brii",
+    "literal_meaning": [
+      "beauty",
+      "fulfillment",
+      "satisfaction"
+    ],
+    "synonyms": [
+      "beauty",
+      "fulfillment",
+      "satisfaction",
+      "pleasure",
+      "completion"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "briinah",
+    "literal_meaning": [
+      "sister"
+    ],
+    "synonyms": [
+      "sister",
+      "kin",
+      "family",
+      "female"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "briinahmaar",
+    "literal_meaning": [
+      "sisterhood"
+    ],
+    "synonyms": [
+      "sisterhood",
+      "unity",
+      "bond",
+      "kinship"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "brit",
+    "literal_meaning": [
+      "beautiful",
+      "fulfilling",
+      "satisfying"
+    ],
+    "synonyms": [
+      "beautiful",
+      "appealing",
+      "pleasing",
+      "attractive",
+      "satisfying"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "brod",
+    "literal_meaning": [
+      "clan"
+    ],
+    "synonyms": [
+      "clan",
+      "tribe",
+      "family",
+      "group"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "brom",
+    "literal_meaning": [
+      "north"
+    ],
+    "synonyms": [
+      "north",
+      "northern",
+      "northward"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "bromjunaar",
+    "literal_meaning": [
+      "bromjunaar"
+    ],
+    "synonyms": [
+      "bromjunaar"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "bron",
+    "literal_meaning": [
+      "nord"
+    ],
+    "synonyms": [
+      "nord"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "bronjun",
+    "literal_meaning": [
+      "jarl"
+    ],
+    "synonyms": [
+      "jarl",
+      "leader",
+      "ruler",
+      "lord"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "bruniik",
+    "literal_meaning": [
+      "savage",
+      "savagery"
+    ],
+    "synonyms": [
+      "savage",
+      "wild",
+      "brutal",
+      "fierce"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "daal",
+    "literal_meaning": [
+      "return"
+    ],
+    "synonyms": [
+      "return",
+      "come",
+      "back",
+      "restore"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "daan",
+    "literal_meaning": [
+      "doom",
+      "fate",
+      "destiny"
+    ],
+    "synonyms": [
+      "doom",
+      "fate",
+      "destiny",
+      "end",
+      "inevitability"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "daanik",
+    "literal_meaning": [
+      "doomed"
+    ],
+    "synonyms": [
+      "doomed",
+      "cursed",
+      "fated",
+      "lost"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "daar",
+    "literal_meaning": [
+      "this",
+      "these",
+      "those",
+      "that"
+    ],
+    "synonyms": [
+      "this",
+      "that",
+      "these",
+      "those"
+    ],
+    "word_class": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "dah",
+    "literal_meaning": [
+      "push"
+    ],
+    "synonyms": [
+      "push",
+      "force",
+      "drive",
+      "move"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "dahmaan",
+    "literal_meaning": [
+      "remember",
+      "remembrance"
+    ],
+    "synonyms": [
+      "remember",
+      "recall",
+      "memory",
+      "remembrance"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "daniik",
+    "literal_meaning": [
+      "doomed"
+    ],
+    "synonyms": [
+      "doomed",
+      "cursed",
+      "fated",
+      "lost"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "dein",
+    "literal_meaning": [
+      "keep",
+      "guard",
+      "safeguard"
+    ],
+    "synonyms": [
+      "keep",
+      "guard",
+      "protect",
+      "defend",
+      "secure"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "deinmaar",
+    "literal_meaning": [
+      "keeper",
+      "guardian"
+    ],
+    "synonyms": [
+      "keeper",
+      "guardian",
+      "protector",
+      "warden"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "denek",
+    "literal_meaning": [
+      "soil",
+      "earth"
+    ],
+    "synonyms": [
+      "soil",
+      "earth",
+      "ground",
+      "dirt"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "denos",
+    "literal_meaning": [
+      "decline",
+      "worsen"
+    ],
+    "synonyms": [
+      "decline",
+      "worsen",
+      "fall",
+      "degrade",
+      "decay"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "deyra",
+    "literal_meaning": [
+      "daedra"
+    ],
+    "synonyms": [
+      "daedra"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "deyto",
+    "literal_meaning": [
+      "bury",
+      "burial"
+    ],
+    "synonyms": [
+      "bury",
+      "inter",
+      "entomb",
+      "lay"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "dez",
+    "literal_meaning": [
+      "fate",
+      "destiny"
+    ],
+    "synonyms": [
+      "fate",
+      "destiny",
+      "future"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "dii",
+    "literal_meaning": [
+      "my",
+      "mine"
+    ],
+    "synonyms": [
+      "my",
+      "mine"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "diil",
+    "literal_meaning": [
+      "undead",
+      "undeath"
+    ],
+    "synonyms": [
+      "undead",
+      "death",
+      "corpse",
+      "revive"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "diin",
+    "literal_meaning": [
+      "freeze",
+      "frost"
+    ],
+    "synonyms": [
+      "freeze",
+      "frost",
+      "ice",
+      "chill"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "diiv",
+    "literal_meaning": [
+      "dragonkind"
+    ],
+    "synonyms": [
+      "dragonkind",
+      "dragons",
+      "race",
+      "spirit"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "diivon",
+    "literal_meaning": [
+      "swallow",
+      "swallowing"
+    ],
+    "synonyms": [
+      "swallow",
+      "consume",
+      "ingest",
+      "devour"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "dilon",
+    "literal_meaning": [
+      "dead",
+      "death"
+    ],
+    "synonyms": [
+      "dead",
+      "die",
+      "kill",
+      "death"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "dilos",
+    "literal_meaning": [
+      "deadly",
+      "lethal"
+    ],
+    "synonyms": [
+      "deadly",
+      "lethal",
+      "fatal",
+      "kill"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "dinok",
+    "literal_meaning": [
+      "death",
+      "end"
+    ],
+    "synonyms": [
+      "death",
+      "end",
+      "loss"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "dinoksetiid",
+    "literal_meaning": [
+      "end",
+      "time"
+    ],
+    "synonyms": [
+      "end",
+      "time",
+      "ending"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "dir",
+    "literal_meaning": [
+      "die"
+    ],
+    "synonyms": [
+      "die",
+      "perish",
+      "fall"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "do",
+    "literal_meaning": [
+      "of",
+      "from"
+    ],
+    "synonyms": [
+      "of",
+      "from",
+      "by",
+      "about"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "dohaviin",
+    "literal_meaning": [
+      "dovahkiin"
+    ],
+    "synonyms": [
+      "dovahkiin"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "dok",
+    "literal_meaning": [
+      "hound",
+      "dog"
+    ],
+    "synonyms": [
+      "hound",
+      "dog",
+      "beast"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "dov",
+    "literal_meaning": [
+      "dragon",
+      "dragonkind"
+    ],
+    "synonyms": [
+      "dragon",
+      "wyrm",
+      "beast"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "dovah",
+    "literal_meaning": [
+      "dragon",
+      "me"
+    ],
+    "synonyms": [
+      "dragon",
+      "self",
+      "me"
+    ],
+    "word_class": [
+      "noun",
+      "pronoun"
+    ]
+  },
+  {
+    "id": "dovahgolz",
+    "literal_meaning": [
+      "dragonstone"
+    ],
+    "synonyms": [
+      "dragonstone",
+      "stone",
+      "map"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "dovahkiin",
+    "literal_meaning": [
+      "dragonborn"
+    ],
+    "synonyms": [
+      "dragonborn",
+      "hero",
+      "mortal"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "dovahkriid",
+    "literal_meaning": [
+      "dragonslayer"
+    ],
+    "synonyms": [
+      "dragonslayer",
+      "slayer",
+      "killer"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "dovahsebrom",
+    "literal_meaning": [
+      "dragon",
+      "north"
+    ],
+    "synonyms": [
+      "dragon",
+      "north"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "draal",
+    "literal_meaning": [
+      "pray",
+      "prayer"
+    ],
+    "synonyms": [
+      "pray",
+      "prayer",
+      "worship"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "dreh",
+    "literal_meaning": [
+      "do",
+      "action"
+    ],
+    "synonyms": [
+      "do",
+      "act",
+      "make",
+      "perform"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "drem",
+    "literal_meaning": [
+      "peace",
+      "patience"
+    ],
+    "synonyms": [
+      "peace",
+      "calm",
+      "patience",
+      "rest"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "drey",
+    "literal_meaning": [
+      "did"
+    ],
+    "synonyms": [
+      "did"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "drog",
+    "literal_meaning": [
+      "lord",
+      "master"
+    ],
+    "synonyms": [
+      "lord",
+      "master",
+      "leader"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "drun",
+    "literal_meaning": [
+      "bring",
+      "cause"
+    ],
+    "synonyms": [
+      "bring",
+      "cause",
+      "make",
+      "create"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "du",
+    "literal_meaning": [
+      "devour",
+      "consume"
+    ],
+    "synonyms": [
+      "devour",
+      "consume",
+      "eat",
+      "feast"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "du'ul",
+    "literal_meaning": [
+      "crown"
+    ],
+    "synonyms": [
+      "crown",
+      "authority",
+      "power"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "dukaan",
+    "literal_meaning": [
+      "dishonor"
+    ],
+    "synonyms": [
+      "dishonor",
+      "shame",
+      "disgrace"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "dun",
+    "literal_meaning": [
+      "grace",
+      "skill"
+    ],
+    "synonyms": [
+      "grace",
+      "skill",
+      "finesse",
+      "ability"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "dur",
+    "literal_meaning": [
+      "curse"
+    ],
+    "synonyms": [
+      "curse",
+      "hex",
+      "damn"
+    ],
+    "word_class": [
+      "verb",
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "id": "dwiin",
+    "literal_meaning": [
+      "steel"
+    ],
+    "synonyms": [
+      "steel",
+      "metal",
+      "hard"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "dwiirok",
+    "literal_meaning": [
+      "carve",
+      "carving"
+    ],
+    "synonyms": [
+      "carve",
+      "cut",
+      "shape",
+      "engrave"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "ek",
+    "literal_meaning": [
+      "her",
+      "hers"
+    ],
+    "synonyms": [
+      "her",
+      "hers"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "enook",
+    "literal_meaning": [
+      "each",
+      "every",
+      "all"
+    ],
+    "synonyms": [
+      "each",
+      "every",
+      "all"
+    ],
+    "word_class": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ensosin",
+    "literal_meaning": [
+      "bewitch",
+      "bewitchment"
+    ],
+    "synonyms": [
+      "bewitch",
+      "enchant",
+      "charm",
+      "curse"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "erei",
+    "literal_meaning": [
+      "until"
+    ],
+    "synonyms": [
+      "until"
+    ],
+    "word_class": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "eruvos",
+    "literal_meaning": [
+      "year"
+    ],
+    "synonyms": [
+      "year",
+      "cycle"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "evenaar",
+    "literal_meaning": [
+      "extinguish",
+      "extinguishment"
+    ],
+    "synonyms": [
+      "extinguish",
+      "quench",
+      "snuff",
+      "end"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "evgir",
+    "literal_meaning": [
+      "season"
+    ],
+    "synonyms": [
+      "season",
+      "period",
+      "cycle"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "faad",
+    "literal_meaning": [
+      "warm",
+      "warmth"
+    ],
+    "synonyms": [
+      "warm",
+      "heat",
+      "heat"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "faal",
+    "literal_meaning": [
+      "the"
+    ],
+    "synonyms": [
+      "the"
+    ],
+    "word_class": [
+      "article"
+    ]
+  },
+  {
+    "id": "faas",
+    "literal_meaning": [
+      "fear"
+    ],
+    "synonyms": [
+      "fear",
+      "dread",
+      "terror",
+      "afraid"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "faasnu",
+    "literal_meaning": [
+      "fearless",
+      "fearlessness"
+    ],
+    "synonyms": [
+      "fearless",
+      "brave",
+      "bold",
+      "courage"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "faaz",
+    "literal_meaning": [
+      "pain",
+      "painful"
+    ],
+    "synonyms": [
+      "pain",
+      "hurt",
+      "ache",
+      "suffer"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "fah",
+    "literal_meaning": [
+      "for",
+      "because"
+    ],
+    "synonyms": [
+      "for",
+      "because",
+      "since"
+    ],
+    "word_class": [
+      "preposition",
+      "conjunction"
+    ]
+  },
+  {
+    "id": "fahdon",
+    "literal_meaning": [
+      "friend",
+      "ally",
+      "companion"
+    ],
+    "synonyms": [
+      "friend",
+      "ally",
+      "companion",
+      "partner"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "fahliil",
+    "literal_meaning": [
+      "elf"
+    ],
+    "synonyms": [
+      "elf"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "fahluaan",
+    "literal_meaning": [
+      "gardener"
+    ],
+    "synonyms": [
+      "gardener",
+      "grower",
+      "cultivator"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "faraan",
+    "literal_meaning": [
+      "fortune",
+      "wealth"
+    ],
+    "synonyms": [
+      "fortune",
+      "wealth",
+      "riches"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "feim",
+    "literal_meaning": [
+      "fade"
+    ],
+    "synonyms": [
+      "fade",
+      "vanish",
+      "dim",
+      "disappear"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "fel",
+    "literal_meaning": [
+      "feral",
+      "ferocity"
+    ],
+    "synonyms": [
+      "feral",
+      "wild",
+      "fierce",
+      "brutal"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "fen",
+    "literal_meaning": [
+      "will"
+    ],
+    "synonyms": [
+      "will",
+      "future"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "fent",
+    "literal_meaning": [
+      "shall"
+    ],
+    "synonyms": [
+      "shall",
+      "future"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "feykro",
+    "literal_meaning": [
+      "forest"
+    ],
+    "synonyms": [
+      "forest",
+      "woods",
+      "grove"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "feyn",
+    "literal_meaning": [
+      "bane"
+    ],
+    "synonyms": [
+      "bane",
+      "curse",
+      "harm",
+      "ruin"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "fiik",
+    "literal_meaning": [
+      "mirror",
+      "reflection"
+    ],
+    "synonyms": [
+      "mirror",
+      "reflect",
+      "image",
+      "copy"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "filok",
+    "literal_meaning": [
+      "escape"
+    ],
+    "synonyms": [
+      "escape",
+      "flee",
+      "evade",
+      "avoid"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "fin",
+    "literal_meaning": [
+      "the"
+    ],
+    "synonyms": [
+      "the"
+    ],
+    "word_class": [
+      "article"
+    ]
+  },
+  {
+    "id": "fo",
+    "literal_meaning": [
+      "frost"
+    ],
+    "synonyms": [
+      "frost",
+      "ice",
+      "cold"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "fod",
+    "literal_meaning": [
+      "when"
+    ],
+    "synonyms": [
+      "when"
+    ],
+    "word_class": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "fodiiz",
+    "literal_meaning": [
+      "hoar",
+      "venerable",
+      "age"
+    ],
+    "synonyms": [
+      "old",
+      "ancient",
+      "aged",
+      "venerable"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "folaas",
+    "literal_meaning": [
+      "wrong",
+      "mistake"
+    ],
+    "synonyms": [
+      "wrong",
+      "mistake",
+      "error",
+      "fault"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "folook",
+    "literal_meaning": [
+      "haunt",
+      "torment"
+    ],
+    "synonyms": [
+      "haunt",
+      "torment",
+      "plague",
+      "fear"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "fonaar",
+    "literal_meaning": [
+      "charge"
+    ],
+    "synonyms": [
+      "charge",
+      "attack",
+      "rush",
+      "advance"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "frin",
+    "literal_meaning": [
+      "hot",
+      "heat",
+      "eagerness"
+    ],
+    "synonyms": [
+      "hot",
+      "heat",
+      "eager",
+      "fervor"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "frod",
+    "literal_meaning": [
+      "field",
+      "battlefield"
+    ],
+    "synonyms": [
+      "field",
+      "battlefield",
+      "ground"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "fron",
+    "literal_meaning": [
+      "kin",
+      "kinship"
+    ],
+    "synonyms": [
+      "kin",
+      "family",
+      "relation",
+      "bond"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "frul",
+    "literal_meaning": [
+      "temporary",
+      "ephemeral"
+    ],
+    "synonyms": [
+      "temporary",
+      "brief",
+      "short",
+      "fleeting"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "ful",
+    "literal_meaning": [
+      "so",
+      "thus"
+    ],
+    "synonyms": [
+      "so",
+      "thus"
+    ],
+    "word_class": [
+      "adverb",
+      "conjunction"
+    ]
+  },
+  {
+    "id": "fun",
+    "literal_meaning": [
+      "tell",
+      "telling"
+    ],
+    "synonyms": [
+      "tell",
+      "speak",
+      "say",
+      "declare"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "fundein",
+    "literal_meaning": [
+      "unfurl",
+      "unfold"
+    ],
+    "synonyms": [
+      "unfurl",
+      "unfold",
+      "open",
+      "spread"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "funt",
+    "literal_meaning": [
+      "fail",
+      "failure"
+    ],
+    "synonyms": [
+      "fail",
+      "failure",
+      "fall",
+      "loss"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "fus",
+    "literal_meaning": [
+      "force"
+    ],
+    "synonyms": [
+      "force",
+      "power",
+      "push",
+      "strength"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "gaaf",
+    "literal_meaning": [
+      "ghost"
+    ],
+    "synonyms": [
+      "ghost",
+      "spirit",
+      "phantom"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "gaaffesejul",
+    "literal_meaning": [
+      "ghosts",
+      "souls"
+    ],
+    "synonyms": [
+      "ghosts",
+      "souls",
+      "spirits"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "gaan",
+    "literal_meaning": [
+      "stamina",
+      "endurance"
+    ],
+    "synonyms": [
+      "stamina",
+      "endurance",
+      "strength",
+      "resilience"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "gaar",
+    "literal_meaning": [
+      "release",
+      "unleash"
+    ],
+    "synonyms": [
+      "release",
+      "unleash",
+      "free",
+      "let"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "gahrot",
+    "literal_meaning": [
+      "steal",
+      "theft"
+    ],
+    "synonyms": [
+      "steal",
+      "theft",
+      "take",
+      "rob"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "gahvon",
+    "literal_meaning": [
+      "yield",
+      "surrender"
+    ],
+    "synonyms": [
+      "yield",
+      "surrender",
+      "give",
+      "renounce"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "galik",
+    "literal_meaning": [
+      "pine"
+    ],
+    "synonyms": [
+      "pine",
+      "tree"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "geh",
+    "literal_meaning": [
+      "yes"
+    ],
+    "synonyms": [
+      "yes"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "gein",
+    "literal_meaning": [
+      "one",
+      "single"
+    ],
+    "synonyms": [
+      "one",
+      "single",
+      "individual"
+    ],
+    "word_class": [
+      "pronoun",
+      "adjective"
+    ]
+  },
+  {
+    "id": "geinmaar",
+    "literal_meaning": [
+      "oneself"
+    ],
+    "synonyms": [
+      "oneself",
+      "self"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "gogil",
+    "literal_meaning": [
+      "goblin"
+    ],
+    "synonyms": [
+      "goblin",
+      "creature"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "gol",
+    "literal_meaning": [
+      "earth",
+      "land",
+      "ground"
+    ],
+    "synonyms": [
+      "earth",
+      "land",
+      "ground"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "golah",
+    "literal_meaning": [
+      "stubborn",
+      "stubbornness"
+    ],
+    "synonyms": [
+      "stubborn",
+      "rigid",
+      "fixed",
+      "unyielding"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "golt",
+    "literal_meaning": [
+      "ground",
+      "place"
+    ],
+    "synonyms": [
+      "ground",
+      "place",
+      "location"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "golz",
+    "literal_meaning": [
+      "stone"
+    ],
+    "synonyms": [
+      "stone",
+      "rock"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "goraan",
+    "literal_meaning": [
+      "young",
+      "youth"
+    ],
+    "synonyms": [
+      "young",
+      "youth",
+      "fresh",
+      "vital"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "govey",
+    "literal_meaning": [
+      "remove",
+      "cut"
+    ],
+    "synonyms": [
+      "remove",
+      "cut",
+      "sever",
+      "detach"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "graag",
+    "literal_meaning": [
+      "green",
+      "greenness"
+    ],
+    "synonyms": [
+      "green",
+      "nature",
+      "growth"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "graan",
+    "literal_meaning": [
+      "rout"
+    ],
+    "synonyms": [
+      "rout",
+      "flee",
+      "retreat",
+      "scatter"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "grah",
+    "literal_meaning": [
+      "battle"
+    ],
+    "synonyms": [
+      "battle",
+      "fight",
+      "combat"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "grah-zeymahzin",
+    "literal_meaning": [
+      "ally",
+      "companion"
+    ],
+    "synonyms": [
+      "ally",
+      "companion",
+      "partner"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "grahmindol",
+    "literal_meaning": [
+      "strategy",
+      "tactic",
+      "trick"
+    ],
+    "synonyms": [
+      "strategy",
+      "tactic",
+      "plan",
+      "trick"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "gram",
+    "literal_meaning": [
+      "cloud"
+    ],
+    "synonyms": [
+      "cloud",
+      "sky"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "gravuun",
+    "literal_meaning": [
+      "autumn",
+      "fall"
+    ],
+    "synonyms": [
+      "autumn",
+      "fall",
+      "season"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "grik",
+    "literal_meaning": [
+      "such"
+    ],
+    "synonyms": [
+      "such",
+      "so"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "grind",
+    "literal_meaning": [
+      "meet",
+      "encounter"
+    ],
+    "synonyms": [
+      "meet",
+      "encounter",
+      "join",
+      "gather"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "gro",
+    "literal_meaning": [
+      "bound",
+      "linked"
+    ],
+    "synonyms": [
+      "bound",
+      "tied",
+      "linked",
+      "connected"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "id": "grohiik",
+    "literal_meaning": [
+      "wolf"
+    ],
+    "synonyms": [
+      "wolf",
+      "beast",
+      "predator"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "gron",
+    "literal_meaning": [
+      "bind",
+      "bond",
+      "link"
+    ],
+    "synonyms": [
+      "bind",
+      "tie",
+      "link",
+      "connect"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "gruth",
+    "literal_meaning": [
+      "betray",
+      "betrayal"
+    ],
+    "synonyms": [
+      "betray",
+      "betrayal",
+      "deceive",
+      "treachery"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "gut",
+    "literal_meaning": [
+      "far",
+      "distance"
+    ],
+    "synonyms": [
+      "far",
+      "distance",
+      "distant",
+      "away"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "haal",
+    "literal_meaning": [
+      "hand"
+    ],
+    "synonyms": [
+      "hand"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "haalvut",
+    "literal_meaning": [
+      "touch",
+      "feeling"
+    ],
+    "synonyms": [
+      "touch",
+      "feel",
+      "sense",
+      "contact"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "haas",
+    "literal_meaning": [
+      "health"
+    ],
+    "synonyms": [
+      "health",
+      "wellness",
+      "vitality"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hah",
+    "literal_meaning": [
+      "mind"
+    ],
+    "synonyms": [
+      "mind",
+      "thought",
+      "intellect"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hahdrim",
+    "literal_meaning": [
+      "mind"
+    ],
+    "synonyms": [
+      "mind",
+      "thought",
+      "intellect"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hahkun",
+    "literal_meaning": [
+      "axe"
+    ],
+    "synonyms": [
+      "axe",
+      "ax",
+      "weapon"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hahnu",
+    "literal_meaning": [
+      "dream"
+    ],
+    "synonyms": [
+      "dream",
+      "vision",
+      "sleep"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "hahvulon",
+    "literal_meaning": [
+      "nightmare"
+    ],
+    "synonyms": [
+      "nightmare",
+      "fear",
+      "terror"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "heim",
+    "literal_meaning": [
+      "forge",
+      "forging"
+    ],
+    "synonyms": [
+      "forge",
+      "craft",
+      "shape",
+      "smith"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "het",
+    "literal_meaning": [
+      "here"
+    ],
+    "synonyms": [
+      "here"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "hevno",
+    "literal_meaning": [
+      "brutal",
+      "harsh"
+    ],
+    "synonyms": [
+      "brutal",
+      "harsh",
+      "cruel",
+      "severe"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "hevnoraak",
+    "literal_meaning": [
+      "brutality"
+    ],
+    "synonyms": [
+      "brutality",
+      "harshness",
+      "cruelty"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "heyv",
+    "literal_meaning": [
+      "duty",
+      "obligation"
+    ],
+    "synonyms": [
+      "duty",
+      "obligation",
+      "responsibility"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hi",
+    "literal_meaning": [
+      "you"
+    ],
+    "synonyms": [
+      "you"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "hillgrundhofkah",
+    "literal_meaning": [
+      "ivarstead"
+    ],
+    "synonyms": [
+      "ivarstead"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "him",
+    "literal_meaning": [
+      "your"
+    ],
+    "synonyms": [
+      "your"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "hin",
+    "literal_meaning": [
+      "your",
+      "yours"
+    ],
+    "synonyms": [
+      "your",
+      "yours"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "hind",
+    "literal_meaning": [
+      "wish",
+      "hope"
+    ],
+    "synonyms": [
+      "wish",
+      "hope",
+      "desire",
+      "want"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "hofkah",
+    "literal_meaning": [
+      "house",
+      "farm"
+    ],
+    "synonyms": [
+      "house",
+      "home",
+      "farm",
+      "stead"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hofkahsejun",
+    "literal_meaning": [
+      "palace",
+      "hall"
+    ],
+    "synonyms": [
+      "palace",
+      "hall",
+      "court"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hofkiin",
+    "literal_meaning": [
+      "home",
+      "homeland"
+    ],
+    "synonyms": [
+      "home",
+      "homeland"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hokoron",
+    "literal_meaning": [
+      "enemy",
+      "adversary",
+      "opponent"
+    ],
+    "synonyms": [
+      "enemy",
+      "adversary",
+      "opponent",
+      "foe"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hon",
+    "literal_meaning": [
+      "hear",
+      "listen"
+    ],
+    "synonyms": [
+      "hear",
+      "listen",
+      "heed"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "horvut",
+    "literal_meaning": [
+      "trap",
+      "lure",
+      "snare"
+    ],
+    "synonyms": [
+      "trap",
+      "lure",
+      "snare",
+      "bait"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "horvutah",
+    "literal_meaning": [
+      "trap",
+      "catch"
+    ],
+    "synonyms": [
+      "trap",
+      "catch",
+      "capture",
+      "ensnare"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "hun",
+    "literal_meaning": [
+      "hero"
+    ],
+    "synonyms": [
+      "hero",
+      "champion"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hungaar",
+    "literal_meaning": [
+      "heroic",
+      "heroism"
+    ],
+    "synonyms": [
+      "heroic",
+      "heroism",
+      "brave",
+      "valor"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "huzrah",
+    "literal_meaning": [
+      "hearken",
+      "heed"
+    ],
+    "synonyms": [
+      "heed",
+      "listen",
+      "attend"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "iiz",
+    "literal_meaning": [
+      "ice"
+    ],
+    "synonyms": [
+      "ice",
+      "frost",
+      "cold"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "in",
+    "literal_meaning": [
+      "master"
+    ],
+    "synonyms": [
+      "master",
+      "expert",
+      "leader"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "inhus",
+    "literal_meaning": [
+      "mastery"
+    ],
+    "synonyms": [
+      "mastery",
+      "skill",
+      "expertise"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jer",
+    "literal_meaning": [
+      "east"
+    ],
+    "synonyms": [
+      "east",
+      "eastern",
+      "eastward"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "joor",
+    "literal_meaning": [
+      "mortal"
+    ],
+    "synonyms": [
+      "mortal",
+      "human"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jot",
+    "literal_meaning": [
+      "maw",
+      "jaw"
+    ],
+    "synonyms": [
+      "jaw",
+      "maw",
+      "mouth"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jud",
+    "literal_meaning": [
+      "queen"
+    ],
+    "synonyms": [
+      "queen",
+      "ruler"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jul",
+    "literal_meaning": [
+      "man",
+      "mankind"
+    ],
+    "synonyms": [
+      "man",
+      "human",
+      "mankind",
+      "people"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jun",
+    "literal_meaning": [
+      "king",
+      "ruler"
+    ],
+    "synonyms": [
+      "king",
+      "ruler",
+      "leader"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "junaar",
+    "literal_meaning": [
+      "kingdom",
+      "kingship"
+    ],
+    "synonyms": [
+      "kingdom",
+      "rule",
+      "realm"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kaal",
+    "literal_meaning": [
+      "champion",
+      "victor",
+      "defender"
+    ],
+    "synonyms": [
+      "champion",
+      "victor",
+      "defender",
+      "hero"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kaan",
+    "literal_meaning": [
+      "kyne"
+    ],
+    "synonyms": [
+      "kyne",
+      "goddess"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kaaz",
+    "literal_meaning": [
+      "cat"
+    ],
+    "synonyms": [
+      "cat",
+      "khajiit"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kah",
+    "literal_meaning": [
+      "proud",
+      "pride"
+    ],
+    "synonyms": [
+      "proud",
+      "pride",
+      "honor"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "kein",
+    "literal_meaning": [
+      "war"
+    ],
+    "synonyms": [
+      "war",
+      "battle",
+      "conflict"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "keizaal",
+    "literal_meaning": [
+      "skyrim"
+    ],
+    "synonyms": [
+      "skyrim"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kel",
+    "literal_meaning": [
+      "elder",
+      "scroll"
+    ],
+    "synonyms": [
+      "elder",
+      "scroll"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kendov",
+    "literal_meaning": [
+      "warrior"
+    ],
+    "synonyms": [
+      "warrior",
+      "fighter"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kest",
+    "literal_meaning": [
+      "tempest"
+    ],
+    "synonyms": [
+      "tempest",
+      "storm"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "key",
+    "literal_meaning": [
+      "horse",
+      "steed"
+    ],
+    "synonyms": [
+      "horse",
+      "steed"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "keyn",
+    "literal_meaning": [
+      "work",
+      "anvil"
+    ],
+    "synonyms": [
+      "work",
+      "forge",
+      "hammer",
+      "shape"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "kiim",
+    "literal_meaning": [
+      "wife"
+    ],
+    "synonyms": [
+      "wife",
+      "spouse"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kiin",
+    "literal_meaning": [
+      "birth",
+      "beginning"
+    ],
+    "synonyms": [
+      "birth",
+      "begin",
+      "start",
+      "origin"
+    ],
+    "word_class": [
+      "verb",
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "id": "kiir",
+    "literal_meaning": [
+      "child"
+    ],
+    "synonyms": [
+      "child",
+      "young"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kinbok",
+    "literal_meaning": [
+      "leader"
+    ],
+    "synonyms": [
+      "leader",
+      "elder"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kinzon",
+    "literal_meaning": [
+      "sharp",
+      "sharpness"
+    ],
+    "synonyms": [
+      "sharp",
+      "keen",
+      "edge"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "kip",
+    "literal_meaning": [
+      "food"
+    ],
+    "synonyms": [
+      "food",
+      "meal"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kipraan",
+    "literal_meaning": [
+      "meal",
+      "feast"
+    ],
+    "synonyms": [
+      "meal",
+      "feast"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "klo",
+    "literal_meaning": [
+      "sand"
+    ],
+    "synonyms": [
+      "sand"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "klov",
+    "literal_meaning": [
+      "head"
+    ],
+    "synonyms": [
+      "head"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ko",
+    "literal_meaning": [
+      "in",
+      "within"
+    ],
+    "synonyms": [
+      "in",
+      "within",
+      "inside"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "kod",
+    "literal_meaning": [
+      "wield",
+      "use"
+    ],
+    "synonyms": [
+      "wield",
+      "use",
+      "hold",
+      "apply"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "kodaav",
+    "literal_meaning": [
+      "bear"
+    ],
+    "synonyms": [
+      "bear"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kogaan",
+    "literal_meaning": [
+      "bless",
+      "blessing"
+    ],
+    "synonyms": [
+      "bless",
+      "blessing",
+      "grant",
+      "thanks"
+    ],
+    "word_class": [
+      "verb",
+      "noun",
+      "interjection"
+    ]
+  },
+  {
+    "id": "kol",
+    "literal_meaning": [
+      "crag",
+      "cliff",
+      "ridge"
+    ],
+    "synonyms": [
+      "cliff",
+      "ridge",
+      "crag"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kolos",
+    "literal_meaning": [
+      "where",
+      "which"
+    ],
+    "synonyms": [
+      "where",
+      "which"
+    ],
+    "word_class": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "komeyt",
+    "literal_meaning": [
+      "issue",
+      "release"
+    ],
+    "synonyms": [
+      "issue",
+      "release",
+      "send",
+      "emit"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "konahrik",
+    "literal_meaning": [
+      "warlord"
+    ],
+    "synonyms": [
+      "warlord",
+      "leader"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "koor",
+    "literal_meaning": [
+      "summer"
+    ],
+    "synonyms": [
+      "summer",
+      "season"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kopraan",
+    "literal_meaning": [
+      "body",
+      "remains"
+    ],
+    "synonyms": [
+      "body",
+      "remains"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "koraav",
+    "literal_meaning": [
+      "see",
+      "perceive",
+      "awareness"
+    ],
+    "synonyms": [
+      "see",
+      "perceive",
+      "recognize",
+      "aware"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "korvanjund",
+    "literal_meaning": [
+      "korvanjund"
+    ],
+    "synonyms": [
+      "korvanjund"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kos",
+    "literal_meaning": [
+      "be",
+      "being"
+    ],
+    "synonyms": [
+      "be",
+      "exist",
+      "being"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "kosil",
+    "literal_meaning": [
+      "inner"
+    ],
+    "synonyms": [
+      "inner",
+      "within",
+      "inward"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun"
+    ]
+  },
+  {
+    "id": "kotin",
+    "literal_meaning": [
+      "into",
+      "towards"
+    ],
+    "synonyms": [
+      "into",
+      "towards",
+      "to"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "krah",
+    "literal_meaning": [
+      "cold"
+    ],
+    "synonyms": [
+      "cold",
+      "chill",
+      "freeze"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "kras",
+    "literal_meaning": [
+      "sick"
+    ],
+    "synonyms": [
+      "sick",
+      "ill"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "krasaar",
+    "literal_meaning": [
+      "sickness"
+    ],
+    "synonyms": [
+      "sickness",
+      "illness"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "krasnovaar",
+    "literal_meaning": [
+      "disease"
+    ],
+    "synonyms": [
+      "disease",
+      "illness"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kreh",
+    "literal_meaning": [
+      "bent",
+      "distortion"
+    ],
+    "synonyms": [
+      "bend",
+      "twist",
+      "distort"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "krein",
+    "literal_meaning": [
+      "sun"
+    ],
+    "synonyms": [
+      "sun"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kren",
+    "literal_meaning": [
+      "break",
+      "shatter"
+    ],
+    "synonyms": [
+      "break",
+      "shatter",
+      "crack",
+      "destroy"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "krent",
+    "literal_meaning": [
+      "broken",
+      "shattered"
+    ],
+    "synonyms": [
+      "broken",
+      "shattered",
+      "damaged"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "id": "kriaan",
+    "literal_meaning": [
+      "killed"
+    ],
+    "synonyms": [
+      "killed",
+      "dead",
+      "slain"
+    ],
+    "word_class": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "kriaan",
+    "literal_meaning": [
+      "killer",
+      "slayer"
+    ],
+    "synonyms": [
+      "killer",
+      "slayer",
+      "murderer"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "krif",
+    "literal_meaning": [
+      "fight",
+      "battle",
+      "struggle"
+    ],
+    "synonyms": [
+      "fight",
+      "battle",
+      "struggle",
+      "combat"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "krii",
+    "literal_meaning": [
+      "kill",
+      "killing"
+    ],
+    "synonyms": [
+      "kill",
+      "slay",
+      "destroy"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "kriid",
+    "literal_meaning": [
+      "slayer",
+      "killer"
+    ],
+    "synonyms": [
+      "slayer",
+      "killer"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kriin",
+    "literal_meaning": [
+      "slay",
+      "slaughter"
+    ],
+    "synonyms": [
+      "slay",
+      "slaughter",
+      "kill"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "kriist",
+    "literal_meaning": [
+      "stand",
+      "standing"
+    ],
+    "synonyms": [
+      "stand",
+      "rise",
+      "hold"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "kriivah",
+    "literal_meaning": [
+      "murder"
+    ],
+    "synonyms": [
+      "murder",
+      "kill",
+      "slay"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "kril",
+    "literal_meaning": [
+      "brave",
+      "bravery"
+    ],
+    "synonyms": [
+      "brave",
+      "courage",
+      "bold"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "krilot",
+    "literal_meaning": [
+      "valiant",
+      "valor"
+    ],
+    "synonyms": [
+      "valiant",
+      "valor",
+      "brave"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "krin",
+    "literal_meaning": [
+      "courageous"
+    ],
+    "synonyms": [
+      "courageous",
+      "brave",
+      "bold"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "krivaan",
+    "literal_meaning": [
+      "murderer",
+      "killer"
+    ],
+    "synonyms": [
+      "murderer",
+      "killer",
+      "slayer"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kro",
+    "literal_meaning": [
+      "sorcerer"
+    ],
+    "synonyms": [
+      "sorcerer",
+      "mage"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kron",
+    "literal_meaning": [
+      "conquer",
+      "victory"
+    ],
+    "synonyms": [
+      "conquer",
+      "win",
+      "victory"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "krongrah",
+    "literal_meaning": [
+      "victory",
+      "conquest"
+    ],
+    "synonyms": [
+      "victory",
+      "conquest",
+      "triumph"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kroniid",
+    "literal_meaning": [
+      "conqueror",
+      "victor"
+    ],
+    "synonyms": [
+      "conqueror",
+      "victor"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "krosis",
+    "literal_meaning": [
+      "sorrow"
+    ],
+    "synonyms": [
+      "sorrow",
+      "sadness",
+      "regret"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb",
+      "interjection"
+    ]
+  },
+  {
+    "id": "kruziik",
+    "literal_meaning": [
+      "ancient"
+    ],
+    "synonyms": [
+      "ancient",
+      "old"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "kul",
+    "literal_meaning": [
+      "good"
+    ],
+    "synonyms": [
+      "good",
+      "moral"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kul",
+    "literal_meaning": [
+      "son",
+      "child"
+    ],
+    "synonyms": [
+      "son",
+      "child",
+      "descendant"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kulaan",
+    "literal_meaning": [
+      "prince"
+    ],
+    "synonyms": [
+      "prince",
+      "heir"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kulaas",
+    "literal_meaning": [
+      "princess"
+    ],
+    "synonyms": [
+      "princess",
+      "heir"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "kun",
+    "literal_meaning": [
+      "light",
+      "goodness"
+    ],
+    "synonyms": [
+      "light",
+      "good",
+      "rightness"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "laan",
+    "literal_meaning": [
+      "want",
+      "request",
+      "ask"
+    ],
+    "synonyms": [
+      "want",
+      "request",
+      "ask",
+      "inquire"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "laas",
+    "literal_meaning": [
+      "life"
+    ],
+    "synonyms": [
+      "life"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "laat",
+    "literal_meaning": [
+      "end",
+      "last"
+    ],
+    "synonyms": [
+      "end",
+      "last",
+      "finish"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "lah",
+    "literal_meaning": [
+      "magicka"
+    ],
+    "synonyms": [
+      "magic",
+      "energy",
+      "power"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "lahney",
+    "literal_meaning": [
+      "live"
+    ],
+    "synonyms": [
+      "live",
+      "exist"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "lahvraan",
+    "literal_meaning": [
+      "muster",
+      "gather"
+    ],
+    "synonyms": [
+      "muster",
+      "gather",
+      "assemble"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "lahvu",
+    "literal_meaning": [
+      "army"
+    ],
+    "synonyms": [
+      "army",
+      "force"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "leh",
+    "literal_meaning": [
+      "lest"
+    ],
+    "synonyms": [
+      "lest"
+    ],
+    "word_class": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "lein",
+    "literal_meaning": [
+      "world"
+    ],
+    "synonyms": [
+      "world",
+      "realm"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "liiv",
+    "literal_meaning": [
+      "wither"
+    ],
+    "synonyms": [
+      "wither",
+      "fade",
+      "decay"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "liivrah",
+    "literal_meaning": [
+      "diminish"
+    ],
+    "synonyms": [
+      "diminish",
+      "reduce",
+      "lessen"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "lingrah",
+    "literal_meaning": [
+      "long",
+      "duration"
+    ],
+    "synonyms": [
+      "long",
+      "lasting",
+      "endure",
+      "length"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "lir",
+    "literal_meaning": [
+      "worm",
+      "vermin"
+    ],
+    "synonyms": [
+      "worm",
+      "vermin",
+      "weakling"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "lo",
+    "literal_meaning": [
+      "deceive",
+      "lie"
+    ],
+    "synonyms": [
+      "deceive",
+      "lie",
+      "trick"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "lok",
+    "literal_meaning": [
+      "sky"
+    ],
+    "synonyms": [
+      "sky"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "lon",
+    "literal_meaning": [
+      "fist"
+    ],
+    "synonyms": [
+      "fist",
+      "hand"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "loost",
+    "literal_meaning": [
+      "have",
+      "possess"
+    ],
+    "synonyms": [
+      "have",
+      "possess",
+      "hold"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "los",
+    "literal_meaning": [
+      "is",
+      "are",
+      "am"
+    ],
+    "synonyms": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "losei",
+    "literal_meaning": [
+      "you"
+    ],
+    "synonyms": [
+      "you"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "lost",
+    "literal_meaning": [
+      "have",
+      "was"
+    ],
+    "synonyms": [
+      "have",
+      "was"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "lot",
+    "literal_meaning": [
+      "great",
+      "greatness"
+    ],
+    "synonyms": [
+      "great",
+      "grand",
+      "strong"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "lovaas",
+    "literal_meaning": [
+      "sing",
+      "music",
+      "song"
+    ],
+    "synonyms": [
+      "sing",
+      "music",
+      "song",
+      "voice"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "luft",
+    "literal_meaning": [
+      "face"
+    ],
+    "synonyms": [
+      "face"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "lumnaar",
+    "literal_meaning": [
+      "valley"
+    ],
+    "synonyms": [
+      "valley"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "lun",
+    "literal_meaning": [
+      "leech"
+    ],
+    "synonyms": [
+      "leech",
+      "drain",
+      "sap"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "luv",
+    "literal_meaning": [
+      "cry",
+      "tear"
+    ],
+    "synonyms": [
+      "cry",
+      "weep",
+      "tear"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "maar",
+    "literal_meaning": [
+      "terror",
+      "terrify"
+    ],
+    "synonyms": [
+      "terror",
+      "fear",
+      "frighten",
+      "terrify"
+    ],
+    "word_class": [
+      "verb",
+      "noun",
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "id": "mah",
+    "literal_meaning": [
+      "fall"
+    ],
+    "synonyms": [
+      "fall",
+      "drop",
+      "collapse"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "mahfaeraak",
+    "literal_meaning": [
+      "forever"
+    ],
+    "synonyms": [
+      "forever",
+      "eternal"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "mahlaan",
+    "literal_meaning": [
+      "fallen"
+    ],
+    "synonyms": [
+      "fallen",
+      "lost"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "id": "mal",
+    "literal_meaning": [
+      "small",
+      "little"
+    ],
+    "synonyms": [
+      "small",
+      "little",
+      "short"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "maltiid",
+    "literal_meaning": [
+      "brief",
+      "short"
+    ],
+    "synonyms": [
+      "brief",
+      "short",
+      "momentary"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "med",
+    "literal_meaning": [
+      "like"
+    ],
+    "synonyms": [
+      "like",
+      "similar"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "mey",
+    "literal_meaning": [
+      "fool"
+    ],
+    "synonyms": [
+      "fool",
+      "trick",
+      "deceive"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "meyz",
+    "literal_meaning": [
+      "come",
+      "become"
+    ],
+    "synonyms": [
+      "come",
+      "become"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "mid",
+    "literal_meaning": [
+      "loyal",
+      "loyalty"
+    ],
+    "synonyms": [
+      "loyal",
+      "faithful",
+      "true"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "middovah",
+    "literal_meaning": [
+      "ally"
+    ],
+    "synonyms": [
+      "ally",
+      "supporter"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "midrot",
+    "literal_meaning": [
+      "loyalty",
+      "oath"
+    ],
+    "synonyms": [
+      "loyalty",
+      "oath",
+      "vow"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "midun",
+    "literal_meaning": [
+      "loyalty"
+    ],
+    "synonyms": [
+      "loyalty"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "miin",
+    "literal_meaning": [
+      "eye"
+    ],
+    "synonyms": [
+      "eye"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "miiraad",
+    "literal_meaning": [
+      "door",
+      "path"
+    ],
+    "synonyms": [
+      "door",
+      "path",
+      "opening",
+      "way"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "miiraak",
+    "literal_meaning": [
+      "portal"
+    ],
+    "synonyms": [
+      "portal",
+      "gate"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "mindin",
+    "literal_meaning": [
+      "after"
+    ],
+    "synonyms": [
+      "after"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "mindok",
+    "literal_meaning": [
+      "think",
+      "know"
+    ],
+    "synonyms": [
+      "think",
+      "know",
+      "consider"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "mindol",
+    "literal_meaning": [
+      "thought"
+    ],
+    "synonyms": [
+      "thought",
+      "idea"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "mindoraan",
+    "literal_meaning": [
+      "understand",
+      "comprehend"
+    ],
+    "synonyms": [
+      "understand",
+      "comprehend",
+      "grasp"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "mir",
+    "literal_meaning": [
+      "loyal",
+      "allegiance"
+    ],
+    "synonyms": [
+      "loyal",
+      "ally",
+      "faithful"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "miraad",
+    "literal_meaning": [
+      "doorway"
+    ],
+    "synonyms": [
+      "door",
+      "entry",
+      "opening"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "mon",
+    "literal_meaning": [
+      "daughter"
+    ],
+    "synonyms": [
+      "daughter",
+      "child"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "monah",
+    "literal_meaning": [
+      "mother",
+      "creator"
+    ],
+    "synonyms": [
+      "mother",
+      "creator",
+      "origin"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "monahven",
+    "literal_meaning": [
+      "throat",
+      "world"
+    ],
+    "synonyms": [
+      "throat",
+      "world"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "morah",
+    "literal_meaning": [
+      "focus",
+      "concentrate"
+    ],
+    "synonyms": [
+      "focus",
+      "concentrate",
+      "think"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "moro",
+    "literal_meaning": [
+      "glory"
+    ],
+    "synonyms": [
+      "glory",
+      "honor"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "morokei",
+    "literal_meaning": [
+      "glorious"
+    ],
+    "synonyms": [
+      "glorious",
+      "honor",
+      "praise"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "motaad",
+    "literal_meaning": [
+      "tremble",
+      "shake"
+    ],
+    "synonyms": [
+      "tremble",
+      "shake",
+      "shudder"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "motmah",
+    "literal_meaning": [
+      "slip"
+    ],
+    "synonyms": [
+      "slip",
+      "slide"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "motmahus",
+    "literal_meaning": [
+      "slippery",
+      "elusive"
+    ],
+    "synonyms": [
+      "slippery",
+      "elusive",
+      "tricky"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "mu",
+    "literal_meaning": [
+      "we"
+    ],
+    "synonyms": [
+      "we"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "mul",
+    "literal_meaning": [
+      "strong",
+      "strength"
+    ],
+    "synonyms": [
+      "strong",
+      "strength",
+      "power"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "mulaag",
+    "literal_meaning": [
+      "strong",
+      "power"
+    ],
+    "synonyms": [
+      "strong",
+      "power",
+      "mighty"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "mulhaan",
+    "literal_meaning": [
+      "still",
+      "unchanging"
+    ],
+    "synonyms": [
+      "still",
+      "steady",
+      "unchanging",
+      "fixed"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "mun",
+    "literal_meaning": [
+      "man",
+      "person"
+    ],
+    "synonyms": [
+      "man",
+      "person",
+      "individual"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "munax",
+    "literal_meaning": [
+      "cruel"
+    ],
+    "synonyms": [
+      "cruel",
+      "harsh",
+      "brutal"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "muz",
+    "literal_meaning": [
+      "men"
+    ],
+    "synonyms": [
+      "men",
+      "people"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "naak",
+    "literal_meaning": [
+      "eat",
+      "consumption"
+    ],
+    "synonyms": [
+      "eat",
+      "consume",
+      "feed"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "naako",
+    "literal_meaning": [
+      "eaten"
+    ],
+    "synonyms": [
+      "eaten",
+      "consumed"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "id": "naal",
+    "literal_meaning": [
+      "by",
+      "with"
+    ],
+    "synonyms": [
+      "by",
+      "with",
+      "through"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "naan",
+    "literal_meaning": [
+      "any"
+    ],
+    "synonyms": [
+      "any"
+    ],
+    "word_class": [
+      "pronoun",
+      "adjective"
+    ]
+  },
+  {
+    "id": "naar",
+    "literal_meaning": [
+      "summit",
+      "peak"
+    ],
+    "synonyms": [
+      "summit",
+      "peak",
+      "top"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "nah",
+    "literal_meaning": [
+      "fury"
+    ],
+    "synonyms": [
+      "fury",
+      "rage",
+      "anger"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "nahgahdinok",
+    "literal_meaning": [
+      "necromancer"
+    ],
+    "synonyms": [
+      "necromancer",
+      "mage"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "nahkip",
+    "literal_meaning": [
+      "feed",
+      "feeding"
+    ],
+    "synonyms": [
+      "feed",
+      "nourish",
+      "eat"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "nahkriin",
+    "literal_meaning": [
+      "revenge",
+      "vengeance"
+    ],
+    "synonyms": [
+      "revenge",
+      "vengeance",
+      "retaliate"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "nahl",
+    "literal_meaning": [
+      "living",
+      "alive"
+    ],
+    "synonyms": [
+      "alive",
+      "living"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "nahlaas",
+    "literal_meaning": [
+      "alive"
+    ],
+    "synonyms": [
+      "alive",
+      "living"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "nahlot",
+    "literal_meaning": [
+      "silent",
+      "silence"
+    ],
+    "synonyms": [
+      "silent",
+      "quiet",
+      "silence"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "nau",
+    "literal_meaning": [
+      "on",
+      "upon"
+    ],
+    "synonyms": [
+      "on",
+      "upon",
+      "at"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "nax",
+    "literal_meaning": [
+      "cruelty"
+    ],
+    "synonyms": [
+      "cruelty",
+      "harshness"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "neh",
+    "literal_meaning": [
+      "never"
+    ],
+    "synonyms": [
+      "never"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "ney",
+    "literal_meaning": [
+      "both"
+    ],
+    "synonyms": [
+      "both",
+      "equal"
+    ],
+    "word_class": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "ni",
+    "literal_meaning": [
+      "not",
+      "no"
+    ],
+    "synonyms": [
+      "not",
+      "no"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "nid",
+    "literal_meaning": [
+      "no",
+      "nothing"
+    ],
+    "synonyms": [
+      "no",
+      "none",
+      "nothing"
+    ],
+    "word_class": [
+      "adverb",
+      "adjective",
+      "noun",
+      "pronoun"
+    ]
+  },
+  {
+    "id": "nii",
+    "literal_meaning": [
+      "it"
+    ],
+    "synonyms": [
+      "it"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "niid",
+    "literal_meaning": [
+      "no"
+    ],
+    "synonyms": [
+      "no"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "niin",
+    "literal_meaning": [
+      "them"
+    ],
+    "synonyms": [
+      "them"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "nikriin",
+    "literal_meaning": [
+      "cowardly",
+      "cowardice"
+    ],
+    "synonyms": [
+      "cowardly",
+      "fearful",
+      "weak"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "nil",
+    "literal_meaning": [
+      "void",
+      "emptiness"
+    ],
+    "synonyms": [
+      "void",
+      "empty",
+      "nothing"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "nimaar",
+    "literal_meaning": [
+      "itself"
+    ],
+    "synonyms": [
+      "itself"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "nin",
+    "literal_meaning": [
+      "sting",
+      "pierce"
+    ],
+    "synonyms": [
+      "sting",
+      "pierce",
+      "strike"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "nir",
+    "literal_meaning": [
+      "hunt"
+    ],
+    "synonyms": [
+      "hunt",
+      "track"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "nis",
+    "literal_meaning": [
+      "cannot"
+    ],
+    "synonyms": [
+      "cannot",
+      "can't"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "nivahriin",
+    "literal_meaning": [
+      "cowardly",
+      "disloyal"
+    ],
+    "synonyms": [
+      "cowardly",
+      "disloyal",
+      "faithless"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "nok",
+    "literal_meaning": [
+      "rest",
+      "lie"
+    ],
+    "synonyms": [
+      "rest",
+      "lie",
+      "sleep"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "nol",
+    "literal_meaning": [
+      "from"
+    ],
+    "synonyms": [
+      "from"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "nonvul",
+    "literal_meaning": [
+      "noble",
+      "nobility"
+    ],
+    "synonyms": [
+      "noble",
+      "honor",
+      "dignity"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "norok",
+    "literal_meaning": [
+      "fierce",
+      "ferocity"
+    ],
+    "synonyms": [
+      "fierce",
+      "feral",
+      "wild"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "nos",
+    "literal_meaning": [
+      "strike",
+      "attack"
+    ],
+    "synonyms": [
+      "strike",
+      "attack",
+      "hit"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "nu",
+    "literal_meaning": [
+      "now"
+    ],
+    "synonyms": [
+      "now",
+      "present"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "nunon",
+    "literal_meaning": [
+      "only",
+      "except"
+    ],
+    "synonyms": [
+      "only",
+      "except"
+    ],
+    "word_class": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "nus",
+    "literal_meaning": [
+      "statue"
+    ],
+    "synonyms": [
+      "statue"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "nust",
+    "literal_meaning": [
+      "they",
+      "those"
+    ],
+    "synonyms": [
+      "they",
+      "those"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "nuz",
+    "literal_meaning": [
+      "but"
+    ],
+    "synonyms": [
+      "but"
+    ],
+    "word_class": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "oblaan",
+    "literal_meaning": [
+      "end",
+      "death"
+    ],
+    "synonyms": [
+      "end",
+      "finish",
+      "die",
+      "death"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "oblivion",
+    "literal_meaning": [
+      "oblivion"
+    ],
+    "synonyms": [
+      "oblivion"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "od",
+    "literal_meaning": [
+      "snow"
+    ],
+    "synonyms": [
+      "snow"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "odus",
+    "literal_meaning": [
+      "snowy",
+      "snowiness"
+    ],
+    "synonyms": [
+      "snowy",
+      "snow",
+      "cold"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "ofaal",
+    "literal_meaning": [
+      "receive",
+      "acquire"
+    ],
+    "synonyms": [
+      "receive",
+      "gain",
+      "earn",
+      "acquire"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "ofan",
+    "literal_meaning": [
+      "give",
+      "gift"
+    ],
+    "synonyms": [
+      "give",
+      "grant",
+      "offer",
+      "gift"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "ogiim",
+    "literal_meaning": [
+      "orc"
+    ],
+    "synonyms": [
+      "orc",
+      "orsimer"
+    ],
+    "word_class": [
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "id": "ok",
+    "literal_meaning": [
+      "his"
+    ],
+    "synonyms": [
+      "his"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "okaaz",
+    "literal_meaning": [
+      "sea",
+      "ocean"
+    ],
+    "synonyms": [
+      "sea",
+      "ocean"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ol",
+    "literal_meaning": [
+      "as"
+    ],
+    "synonyms": [
+      "as",
+      "like",
+      "equal"
+    ],
+    "word_class": [
+      "adverb",
+      "conjunction"
+    ]
+  },
+  {
+    "id": "om",
+    "literal_meaning": [
+      "hair"
+    ],
+    "synonyms": [
+      "hair"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ond",
+    "literal_meaning": [
+      "lo"
+    ],
+    "synonyms": [
+      "look",
+      "hear"
+    ],
+    "word_class": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "onik",
+    "literal_meaning": [
+      "wise"
+    ],
+    "synonyms": [
+      "wise",
+      "smart"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "onikaan",
+    "literal_meaning": [
+      "wisdom"
+    ],
+    "synonyms": [
+      "wisdom",
+      "knowledge"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "onikiv",
+    "literal_meaning": [
+      "enlighten",
+      "enlightenment"
+    ],
+    "synonyms": [
+      "enlighten",
+      "teach",
+      "reveal",
+      "understand"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "ont",
+    "literal_meaning": [
+      "once",
+      "already"
+    ],
+    "synonyms": [
+      "once",
+      "already",
+      "before"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "orin",
+    "literal_meaning": [
+      "even"
+    ],
+    "synonyms": [
+      "even",
+      "fully",
+      "quite"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "osos",
+    "literal_meaning": [
+      "some"
+    ],
+    "synonyms": [
+      "some"
+    ],
+    "word_class": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "oth",
+    "literal_meaning": [
+      "orphan"
+    ],
+    "synonyms": [
+      "orphan"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ov",
+    "literal_meaning": [
+      "trust",
+      "confidence"
+    ],
+    "synonyms": [
+      "trust",
+      "rely",
+      "faith"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "ozinvey",
+    "literal_meaning": [
+      "ivory"
+    ],
+    "synonyms": [
+      "ivory",
+      "white"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "paak",
+    "literal_meaning": [
+      "shame"
+    ],
+    "synonyms": [
+      "shame",
+      "ashamed",
+      "guilt"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "paal",
+    "literal_meaning": [
+      "enemy",
+      "foe"
+    ],
+    "synonyms": [
+      "enemy",
+      "foe",
+      "adversary"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "paar",
+    "literal_meaning": [
+      "ambition",
+      "desire"
+    ],
+    "synonyms": [
+      "ambition",
+      "desire",
+      "crave",
+      "pursue"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "paaz",
+    "literal_meaning": [
+      "fair",
+      "fairness"
+    ],
+    "synonyms": [
+      "fair",
+      "just",
+      "equal"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "pah",
+    "literal_meaning": [
+      "all"
+    ],
+    "synonyms": [
+      "all",
+      "whole",
+      "every"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "pronoun"
+    ]
+  },
+  {
+    "id": "pahlok",
+    "literal_meaning": [
+      "arrogant",
+      "arrogance"
+    ],
+    "synonyms": [
+      "arrogant",
+      "proud",
+      "haughty"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "pel",
+    "literal_meaning": [
+      "write",
+      "writing"
+    ],
+    "synonyms": [
+      "write",
+      "record"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "peyt",
+    "literal_meaning": [
+      "rose"
+    ],
+    "synonyms": [
+      "rose",
+      "flower"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "pindaar",
+    "literal_meaning": [
+      "plain",
+      "field"
+    ],
+    "synonyms": [
+      "plain",
+      "field"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "piraak",
+    "literal_meaning": [
+      "have",
+      "possess"
+    ],
+    "synonyms": [
+      "have",
+      "possess",
+      "own"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "pogaan",
+    "literal_meaning": [
+      "many"
+    ],
+    "synonyms": [
+      "many",
+      "numerous"
+    ],
+    "word_class": [
+      "adjective",
+      "pronoun"
+    ]
+  },
+  {
+    "id": "pogaas",
+    "literal_meaning": [
+      "much"
+    ],
+    "synonyms": [
+      "much",
+      "great"
+    ],
+    "word_class": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "pook",
+    "literal_meaning": [
+      "stink",
+      "stench"
+    ],
+    "synonyms": [
+      "stink",
+      "reek",
+      "smell"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "praal",
+    "literal_meaning": [
+      "sit",
+      "seat"
+    ],
+    "synonyms": [
+      "sit",
+      "rest",
+      "seat"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "praan",
+    "literal_meaning": [
+      "rest",
+      "death"
+    ],
+    "synonyms": [
+      "rest",
+      "death",
+      "sleep"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "prodah",
+    "literal_meaning": [
+      "foretell",
+      "prophecy"
+    ],
+    "synonyms": [
+      "foretell",
+      "predict",
+      "prophecy"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "pruzaan",
+    "literal_meaning": [
+      "best"
+    ],
+    "synonyms": [
+      "best",
+      "better"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "pruzah",
+    "literal_meaning": [
+      "good"
+    ],
+    "synonyms": [
+      "good",
+      "well"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "qah",
+    "literal_meaning": [
+      "armor",
+      "defense"
+    ],
+    "synonyms": [
+      "armor",
+      "defense",
+      "protection",
+      "shield"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "qahnaar",
+    "literal_meaning": [
+      "vanquish",
+      "eliminate"
+    ],
+    "synonyms": [
+      "vanquish",
+      "defeat",
+      "eliminate",
+      "resist"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "qahnaarin",
+    "literal_meaning": [
+      "vanquisher"
+    ],
+    "synonyms": [
+      "vanquisher",
+      "conqueror"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "qalos",
+    "literal_meaning": [
+      "touch",
+      "presence",
+      "existence"
+    ],
+    "synonyms": [
+      "touch",
+      "presence",
+      "exist"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "qeth",
+    "literal_meaning": [
+      "bone"
+    ],
+    "synonyms": [
+      "bone"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "qethsegol",
+    "literal_meaning": [
+      "stone"
+    ],
+    "synonyms": [
+      "stone",
+      "rock"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "qiilaan",
+    "literal_meaning": [
+      "bow",
+      "submission"
+    ],
+    "synonyms": [
+      "bow",
+      "submit",
+      "yield"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "qo",
+    "literal_meaning": [
+      "lightning"
+    ],
+    "synonyms": [
+      "lightning"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "qolaas",
+    "literal_meaning": [
+      "herald",
+      "harbinger"
+    ],
+    "synonyms": [
+      "herald",
+      "harbinger",
+      "sign"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "qostiid",
+    "literal_meaning": [
+      "prophecy"
+    ],
+    "synonyms": [
+      "prophecy",
+      "foretell"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "qoth",
+    "literal_meaning": [
+      "tomb"
+    ],
+    "synonyms": [
+      "tomb",
+      "grave"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "quethsegol ahrol",
+    "literal_meaning": [
+      "granite hill"
+    ],
+    "synonyms": [
+      "granite",
+      "hill"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "raan",
+    "literal_meaning": [
+      "animal"
+    ],
+    "synonyms": [
+      "animal",
+      "beast"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "rah",
+    "literal_meaning": [
+      "god",
+      "deity"
+    ],
+    "synonyms": [
+      "god",
+      "deity",
+      "spirit"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "rahgol",
+    "literal_meaning": [
+      "rage"
+    ],
+    "synonyms": [
+      "rage",
+      "fury"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "rahgot",
+    "literal_meaning": [
+      "anger"
+    ],
+    "synonyms": [
+      "anger",
+      "rage"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "rahgron",
+    "literal_meaning": [
+      "angry"
+    ],
+    "synonyms": [
+      "angry",
+      "rage",
+      "fury"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "rath",
+    "literal_meaning": [
+      "river"
+    ],
+    "synonyms": [
+      "river"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "rein",
+    "literal_meaning": [
+      "roar",
+      "cry"
+    ],
+    "synonyms": [
+      "roar",
+      "cry",
+      "shout"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "rek",
+    "literal_meaning": [
+      "she"
+    ],
+    "synonyms": [
+      "she"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "rel",
+    "literal_meaning": [
+      "dominate",
+      "rule"
+    ],
+    "synonyms": [
+      "dominate",
+      "rule",
+      "control"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "revak",
+    "literal_meaning": [
+      "sacred",
+      "holy"
+    ],
+    "synonyms": [
+      "sacred",
+      "holy",
+      "hallowed"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "reyliik",
+    "literal_meaning": [
+      "race",
+      "people"
+    ],
+    "synonyms": [
+      "race",
+      "people"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "reyth",
+    "literal_meaning": [
+      "tree"
+    ],
+    "synonyms": [
+      "tree"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "rii",
+    "literal_meaning": [
+      "essence",
+      "spirit",
+      "soul"
+    ],
+    "synonyms": [
+      "essence",
+      "spirit",
+      "soul"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "riik",
+    "literal_meaning": [
+      "gale"
+    ],
+    "synonyms": [
+      "gale",
+      "wind"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "rinik",
+    "literal_meaning": [
+      "very"
+    ],
+    "synonyms": [
+      "very",
+      "extremely"
+    ],
+    "word_class": [
+      "adverb",
+      "adjective"
+    ]
+  },
+  {
+    "id": "ro",
+    "literal_meaning": [
+      "balance"
+    ],
+    "synonyms": [
+      "balance",
+      "equal"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "rok",
+    "literal_meaning": [
+      "word"
+    ],
+    "synonyms": [
+      "word"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "rok",
+    "literal_meaning": [
+      "he"
+    ],
+    "synonyms": [
+      "he"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ronaan",
+    "literal_meaning": [
+      "archer"
+    ],
+    "synonyms": [
+      "archer"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ronaaz",
+    "literal_meaning": [
+      "arrow"
+    ],
+    "synonyms": [
+      "arrow"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ronax",
+    "literal_meaning": [
+      "regiment"
+    ],
+    "synonyms": [
+      "regiment",
+      "unit"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ronit",
+    "literal_meaning": [
+      "rival",
+      "equal"
+    ],
+    "synonyms": [
+      "rival",
+      "match",
+      "equal"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "rorikhofkah",
+    "literal_meaning": [
+      "rorikstead"
+    ],
+    "synonyms": [
+      "rorikstead"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "rot",
+    "literal_meaning": [
+      "word"
+    ],
+    "synonyms": [
+      "word"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "rotmulaag",
+    "literal_meaning": [
+      "word",
+      "power"
+    ],
+    "synonyms": [
+      "word",
+      "power"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "rovaan",
+    "literal_meaning": [
+      "wander",
+      "wanderings"
+    ],
+    "synonyms": [
+      "wander",
+      "rove",
+      "roam"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "ru",
+    "literal_meaning": [
+      "run",
+      "flight"
+    ],
+    "synonyms": [
+      "run",
+      "flee",
+      "escape"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "rul",
+    "literal_meaning": [
+      "when"
+    ],
+    "synonyms": [
+      "when"
+    ],
+    "word_class": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "ruth",
+    "literal_meaning": [
+      "rage"
+    ],
+    "synonyms": [
+      "rage",
+      "anger"
+    ],
+    "word_class": [
+      "noun",
+      "interjection"
+    ]
+  },
+  {
+    "id": "ruvaak",
+    "literal_meaning": [
+      "raven"
+    ],
+    "synonyms": [
+      "raven",
+      "bird"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ruz",
+    "literal_meaning": [
+      "then"
+    ],
+    "synonyms": [
+      "then",
+      "next"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "saan",
+    "literal_meaning": [
+      "lose",
+      "loss"
+    ],
+    "synonyms": [
+      "lose",
+      "loss"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "sadon",
+    "literal_meaning": [
+      "gray",
+      "grayness"
+    ],
+    "synonyms": [
+      "gray"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "sadonvum",
+    "literal_meaning": [
+      "graybeard"
+    ],
+    "synonyms": [
+      "graybeard",
+      "elder",
+      "aged"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "sah",
+    "literal_meaning": [
+      "phantom",
+      "illusion"
+    ],
+    "synonyms": [
+      "phantom",
+      "illusion"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "sahlo",
+    "literal_meaning": [
+      "weak",
+      "weakness"
+    ],
+    "synonyms": [
+      "weak",
+      "poor"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "sahqo",
+    "literal_meaning": [
+      "red",
+      "redness"
+    ],
+    "synonyms": [
+      "red"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "sahqon",
+    "literal_meaning": [
+      "crimson"
+    ],
+    "synonyms": [
+      "crimson",
+      "red"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "sahrot",
+    "literal_meaning": [
+      "mighty",
+      "might"
+    ],
+    "synonyms": [
+      "mighty",
+      "great",
+      "strong"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "sahsun",
+    "literal_meaning": [
+      "village"
+    ],
+    "synonyms": [
+      "village"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sahsunaar",
+    "literal_meaning": [
+      "villager"
+    ],
+    "synonyms": [
+      "villager"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sahvot",
+    "literal_meaning": [
+      "believe",
+      "faith"
+    ],
+    "synonyms": [
+      "believe",
+      "faith",
+      "trust"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "saraan",
+    "literal_meaning": [
+      "wait",
+      "delay"
+    ],
+    "synonyms": [
+      "wait",
+      "delay"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "saviik",
+    "literal_meaning": [
+      "savior"
+    ],
+    "synonyms": [
+      "savior"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "se",
+    "literal_meaning": [
+      "of"
+    ],
+    "synonyms": [
+      "of"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "shaan",
+    "literal_meaning": [
+      "inspire",
+      "inspiration"
+    ],
+    "synonyms": [
+      "inspire",
+      "inspiration"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "shul",
+    "literal_meaning": [
+      "sun",
+      "sunlight"
+    ],
+    "synonyms": [
+      "sun",
+      "light"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "siigonis",
+    "literal_meaning": [
+      "lizard"
+    ],
+    "synonyms": [
+      "lizard",
+      "argonian"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "siiv",
+    "literal_meaning": [
+      "find",
+      "finding"
+    ],
+    "synonyms": [
+      "find",
+      "discover",
+      "gain"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "sik",
+    "literal_meaning": [
+      "rune",
+      "word"
+    ],
+    "synonyms": [
+      "rune",
+      "word",
+      "symbol"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sil",
+    "literal_meaning": [
+      "soul",
+      "life"
+    ],
+    "synonyms": [
+      "soul",
+      "spirit",
+      "life"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sillesejoor",
+    "literal_meaning": [
+      "souls"
+    ],
+    "synonyms": [
+      "souls",
+      "spirits"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sinak",
+    "literal_meaning": [
+      "finger"
+    ],
+    "synonyms": [
+      "finger"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sindugahvon",
+    "literal_meaning": [
+      "unyielding"
+    ],
+    "synonyms": [
+      "unyielding",
+      "firm",
+      "resolute"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "sinon",
+    "literal_meaning": [
+      "instead"
+    ],
+    "synonyms": [
+      "instead"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "sivaas",
+    "literal_meaning": [
+      "beast",
+      "creature"
+    ],
+    "synonyms": [
+      "beast",
+      "creature"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sizaan",
+    "literal_meaning": [
+      "lost"
+    ],
+    "synonyms": [
+      "lost"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "slen",
+    "literal_meaning": [
+      "flesh",
+      "body"
+    ],
+    "synonyms": [
+      "flesh",
+      "body"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "smoliin",
+    "literal_meaning": [
+      "passion"
+    ],
+    "synonyms": [
+      "passion",
+      "fervor"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "so",
+    "literal_meaning": [
+      "sorrow"
+    ],
+    "synonyms": [
+      "sorrow",
+      "grief"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "sod",
+    "literal_meaning": [
+      "deed"
+    ],
+    "synonyms": [
+      "deed",
+      "act"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sonaak",
+    "literal_meaning": [
+      "priest"
+    ],
+    "synonyms": [
+      "priest"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sonaan",
+    "literal_meaning": [
+      "bard"
+    ],
+    "synonyms": [
+      "bard",
+      "singer"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sos",
+    "literal_meaning": [
+      "blood"
+    ],
+    "synonyms": [
+      "blood"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sosaal",
+    "literal_meaning": [
+      "bleed",
+      "suffering"
+    ],
+    "synonyms": [
+      "bleed",
+      "suffer"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "sossedov",
+    "literal_meaning": [
+      "dragonblood"
+    ],
+    "synonyms": [
+      "dragonblood"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sot",
+    "literal_meaning": [
+      "white"
+    ],
+    "synonyms": [
+      "white"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "sov",
+    "literal_meaning": [
+      "spend"
+    ],
+    "synonyms": [
+      "spend"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "sovngarde",
+    "literal_meaning": [
+      "sovngarde"
+    ],
+    "synonyms": [
+      "sovngarde"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sovrahzun",
+    "literal_meaning": [
+      "mercenary"
+    ],
+    "synonyms": [
+      "mercenary"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "spaan",
+    "literal_meaning": [
+      "shield",
+      "protection"
+    ],
+    "synonyms": [
+      "shield",
+      "protect",
+      "guard"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "staadnau",
+    "literal_meaning": [
+      "unbound",
+      "freedom"
+    ],
+    "synonyms": [
+      "unbound",
+      "free",
+      "release"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "stin",
+    "literal_meaning": [
+      "free",
+      "freedom"
+    ],
+    "synonyms": [
+      "free",
+      "freedom"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "strun",
+    "literal_meaning": [
+      "storm"
+    ],
+    "synonyms": [
+      "storm"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "strundu'ul",
+    "literal_meaning": [
+      "stormcrown"
+    ],
+    "synonyms": [
+      "stormcrown"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "strunmah",
+    "literal_meaning": [
+      "mountain"
+    ],
+    "synonyms": [
+      "mountain"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "su",
+    "literal_meaning": [
+      "air"
+    ],
+    "synonyms": [
+      "air"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "su'um",
+    "literal_meaning": [
+      "breath",
+      "spirit"
+    ],
+    "synonyms": [
+      "breath",
+      "spirit"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sul",
+    "literal_meaning": [
+      "day",
+      "time"
+    ],
+    "synonyms": [
+      "day",
+      "time"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "suleyk",
+    "literal_meaning": [
+      "power",
+      "strength"
+    ],
+    "synonyms": [
+      "power",
+      "strength",
+      "ability"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "suleykaar",
+    "literal_meaning": [
+      "powerful"
+    ],
+    "synonyms": [
+      "powerful",
+      "strong"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "suleyksejun",
+    "literal_meaning": [
+      "realm",
+      "authority"
+    ],
+    "synonyms": [
+      "realm",
+      "domain",
+      "authority"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "sunvaar",
+    "literal_meaning": [
+      "beast",
+      "monster"
+    ],
+    "synonyms": [
+      "beast",
+      "monster",
+      "creature"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "suvulaan",
+    "literal_meaning": [
+      "twilight",
+      "dusk"
+    ],
+    "synonyms": [
+      "twilight",
+      "dusk"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "taazokaan",
+    "literal_meaning": [
+      "tamriel"
+    ],
+    "synonyms": [
+      "tamriel"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "tafiir",
+    "literal_meaning": [
+      "thief"
+    ],
+    "synonyms": [
+      "thief"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "tah",
+    "literal_meaning": [
+      "pack"
+    ],
+    "synonyms": [
+      "pack",
+      "group"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "tahrodiis",
+    "literal_meaning": [
+      "treacherous",
+      "dangerous"
+    ],
+    "synonyms": [
+      "treacherous",
+      "dangerous",
+      "unstable"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "tahrovin",
+    "literal_meaning": [
+      "treachery",
+      "betrayal"
+    ],
+    "synonyms": [
+      "treachery",
+      "betrayal",
+      "danger"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "tey",
+    "literal_meaning": [
+      "tale",
+      "story"
+    ],
+    "synonyms": [
+      "tale",
+      "story"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "thaarn",
+    "literal_meaning": [
+      "obedient",
+      "obedience"
+    ],
+    "synonyms": [
+      "obedient",
+      "loyal",
+      "obedience"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "thu'um",
+    "literal_meaning": [
+      "voice",
+      "shout"
+    ],
+    "synonyms": [
+      "voice",
+      "shout",
+      "power"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "thur",
+    "literal_meaning": [
+      "lord",
+      "rule"
+    ],
+    "synonyms": [
+      "lord",
+      "king",
+      "ruler",
+      "tyrant"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "tiid",
+    "literal_meaning": [
+      "time",
+      "moment"
+    ],
+    "synonyms": [
+      "time",
+      "moment"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "tiid-ahraan",
+    "literal_meaning": [
+      "time",
+      "wound"
+    ],
+    "synonyms": [
+      "time",
+      "rift"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "tiiraaz",
+    "literal_meaning": [
+      "sad",
+      "sadness"
+    ],
+    "synonyms": [
+      "sad",
+      "sorrow"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "til",
+    "literal_meaning": [
+      "there"
+    ],
+    "synonyms": [
+      "there"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "tinvaak",
+    "literal_meaning": [
+      "speak",
+      "conversation"
+    ],
+    "synonyms": [
+      "speak",
+      "talk",
+      "discuss"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "togaat",
+    "literal_meaning": [
+      "attempt"
+    ],
+    "synonyms": [
+      "attempt",
+      "try"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "tol",
+    "literal_meaning": [
+      "that"
+    ],
+    "synonyms": [
+      "that"
+    ],
+    "word_class": [
+      "conjunction",
+      "adjective"
+    ]
+  },
+  {
+    "id": "toor",
+    "literal_meaning": [
+      "inferno"
+    ],
+    "synonyms": [
+      "inferno",
+      "fire"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "tovit",
+    "literal_meaning": [
+      "search"
+    ],
+    "synonyms": [
+      "search",
+      "seek"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "tovitaan",
+    "literal_meaning": [
+      "searcher"
+    ],
+    "synonyms": [
+      "searcher",
+      "seeker"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "tu",
+    "literal_meaning": [
+      "hammer"
+    ],
+    "synonyms": [
+      "hammer"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "tu'um",
+    "literal_meaning": [
+      "within",
+      "inwardness"
+    ],
+    "synonyms": [
+      "within",
+      "inner",
+      "internal"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "tum",
+    "literal_meaning": [
+      "down",
+      "within"
+    ],
+    "synonyms": [
+      "down",
+      "within"
+    ],
+    "word_class": [
+      "preposition",
+      "adverb"
+    ]
+  },
+  {
+    "id": "tuz",
+    "literal_meaning": [
+      "blade",
+      "sword"
+    ],
+    "synonyms": [
+      "blade",
+      "sword"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ufiik",
+    "literal_meaning": [
+      "troll"
+    ],
+    "synonyms": [
+      "troll"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ul",
+    "literal_meaning": [
+      "eternity"
+    ],
+    "synonyms": [
+      "eternity",
+      "infinite"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ulse",
+    "literal_meaning": [
+      "eternally"
+    ],
+    "synonyms": [
+      "eternally",
+      "forever"
+    ],
+    "word_class": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "un",
+    "literal_meaning": [
+      "our"
+    ],
+    "synonyms": [
+      "our",
+      "ours"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "unahzaal",
+    "literal_meaning": [
+      "eternal",
+      "ceaseless"
+    ],
+    "synonyms": [
+      "eternal",
+      "endless",
+      "ceaseless"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "unslaad",
+    "literal_meaning": [
+      "eternal",
+      "limitless"
+    ],
+    "synonyms": [
+      "eternal",
+      "limitless",
+      "endless"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "unt",
+    "literal_meaning": [
+      "try",
+      "trial"
+    ],
+    "synonyms": [
+      "try",
+      "attempt",
+      "trial"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "us",
+    "literal_meaning": [
+      "before"
+    ],
+    "synonyms": [
+      "before",
+      "front"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "uth",
+    "literal_meaning": [
+      "command",
+      "order"
+    ],
+    "synonyms": [
+      "command",
+      "order"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "uv",
+    "literal_meaning": [
+      "or"
+    ],
+    "synonyms": [
+      "or"
+    ],
+    "word_class": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "uznahgaar",
+    "literal_meaning": [
+      "unbridled"
+    ],
+    "synonyms": [
+      "unbridled",
+      "free",
+      "wild"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vaal",
+    "literal_meaning": [
+      "distance"
+    ],
+    "synonyms": [
+      "distance",
+      "gap"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vaat",
+    "literal_meaning": [
+      "swear",
+      "oath"
+    ],
+    "synonyms": [
+      "swear",
+      "oath",
+      "promise"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "vaaz",
+    "literal_meaning": [
+      "tear"
+    ],
+    "synonyms": [
+      "tear",
+      "rip",
+      "pull"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "vah",
+    "literal_meaning": [
+      "spring"
+    ],
+    "synonyms": [
+      "spring",
+      "season"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vahdin",
+    "literal_meaning": [
+      "maiden"
+    ],
+    "synonyms": [
+      "maiden",
+      "woman"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vahlok",
+    "literal_meaning": [
+      "guardian"
+    ],
+    "synonyms": [
+      "guardian",
+      "protector"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vahriin",
+    "literal_meaning": [
+      "sworn",
+      "oath"
+    ],
+    "synonyms": [
+      "sworn",
+      "oath",
+      "pledge"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vahrukiv",
+    "literal_meaning": [
+      "commemorate"
+    ],
+    "synonyms": [
+      "commemorate",
+      "remember"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "vahrukt",
+    "literal_meaning": [
+      "memory"
+    ],
+    "synonyms": [
+      "memory",
+      "remembrance"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vahzah",
+    "literal_meaning": [
+      "true"
+    ],
+    "synonyms": [
+      "true",
+      "right"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "vahzen",
+    "literal_meaning": [
+      "truth"
+    ],
+    "synonyms": [
+      "truth",
+      "rightness"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "ved",
+    "literal_meaning": [
+      "black"
+    ],
+    "synonyms": [
+      "black"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "ven",
+    "literal_meaning": [
+      "wind"
+    ],
+    "synonyms": [
+      "wind",
+      "current"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vennesetiid",
+    "literal_meaning": [
+      "fate",
+      "destiny"
+    ],
+    "synonyms": [
+      "fate",
+      "destiny"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vey",
+    "literal_meaning": [
+      "cut"
+    ],
+    "synonyms": [
+      "cut",
+      "slice"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "veydo",
+    "literal_meaning": [
+      "grass"
+    ],
+    "synonyms": [
+      "grass"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "veysun",
+    "literal_meaning": [
+      "ship",
+      "vessel"
+    ],
+    "synonyms": [
+      "ship",
+      "vessel"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "viidost",
+    "literal_meaning": [
+      "poison"
+    ],
+    "synonyms": [
+      "poison",
+      "toxin"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "viik",
+    "literal_meaning": [
+      "defeat"
+    ],
+    "synonyms": [
+      "defeat",
+      "overcome"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "viin",
+    "literal_meaning": [
+      "shine"
+    ],
+    "synonyms": [
+      "shine",
+      "glow"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "viing",
+    "literal_meaning": [
+      "wing"
+    ],
+    "synonyms": [
+      "wing"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "viintaas",
+    "literal_meaning": [
+      "shining"
+    ],
+    "synonyms": [
+      "shining",
+      "bright"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "viir",
+    "literal_meaning": [
+      "dying"
+    ],
+    "synonyms": [
+      "dying",
+      "fading"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vith",
+    "literal_meaning": [
+      "serpent"
+    ],
+    "synonyms": [
+      "serpent",
+      "snake"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vo",
+    "literal_meaning": [
+      "undo",
+      "reverse"
+    ],
+    "synonyms": [
+      "undo",
+      "reverse"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "vo-",
+    "literal_meaning": [
+      "un"
+    ],
+    "synonyms": [
+      "un"
+    ],
+    "word_class": [
+      "prefix"
+    ]
+  },
+  {
+    "id": "vobalaan",
+    "literal_meaning": [
+      "unworthy"
+    ],
+    "synonyms": [
+      "unworthy"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vod",
+    "literal_meaning": [
+      "past"
+    ],
+    "synonyms": [
+      "past",
+      "gone"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vodahmin",
+    "literal_meaning": [
+      "forgotten"
+    ],
+    "synonyms": [
+      "forgotten",
+      "lost"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vokiin",
+    "literal_meaning": [
+      "unborn"
+    ],
+    "synonyms": [
+      "unborn",
+      "void"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vokrii",
+    "literal_meaning": [
+      "restore"
+    ],
+    "synonyms": [
+      "restore",
+      "revive"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "vokul",
+    "literal_meaning": [
+      "evil"
+    ],
+    "synonyms": [
+      "evil"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vokun",
+    "literal_meaning": [
+      "shadow",
+      "darkness"
+    ],
+    "synonyms": [
+      "shadow",
+      "darkness"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vol",
+    "literal_meaning": [
+      "horror"
+    ],
+    "synonyms": [
+      "horror",
+      "fear"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "volaan",
+    "literal_meaning": [
+      "intrude"
+    ],
+    "synonyms": [
+      "intrude",
+      "enter"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "volunruud",
+    "literal_meaning": [
+      "volunruud"
+    ],
+    "synonyms": [
+      "volunruud"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vomindok",
+    "literal_meaning": [
+      "unknown"
+    ],
+    "synonyms": [
+      "unknown",
+      "obscure"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vomir",
+    "literal_meaning": [
+      "independent"
+    ],
+    "synonyms": [
+      "independent",
+      "free"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vonmindoraan",
+    "literal_meaning": [
+      "incomprehensible"
+    ],
+    "synonyms": [
+      "incomprehensible"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vonun",
+    "literal_meaning": [
+      "hidden"
+    ],
+    "synonyms": [
+      "hidden",
+      "unseen"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vonuz",
+    "literal_meaning": [
+      "invisible"
+    ],
+    "synonyms": [
+      "invisible"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vosaraan",
+    "literal_meaning": [
+      "hasten"
+    ],
+    "synonyms": [
+      "hasten",
+      "rush"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "voth",
+    "literal_meaning": [
+      "with"
+    ],
+    "synonyms": [
+      "with"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "vothaarn",
+    "literal_meaning": [
+      "disobedient"
+    ],
+    "synonyms": [
+      "disobedient"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "vu",
+    "literal_meaning": [
+      "dawn"
+    ],
+    "synonyms": [
+      "dawn"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vukein",
+    "literal_meaning": [
+      "combat"
+    ],
+    "synonyms": [
+      "combat",
+      "fight"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "vul",
+    "literal_meaning": [
+      "dark"
+    ],
+    "synonyms": [
+      "dark"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "vulom",
+    "literal_meaning": [
+      "darkness"
+    ],
+    "synonyms": [
+      "darkness"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vulon",
+    "literal_meaning": [
+      "night"
+    ],
+    "synonyms": [
+      "night"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vum",
+    "literal_meaning": [
+      "beard"
+    ],
+    "synonyms": [
+      "beard"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vur",
+    "literal_meaning": [
+      "valor"
+    ],
+    "synonyms": [
+      "valor",
+      "courage"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "vus",
+    "literal_meaning": [
+      "nirn"
+    ],
+    "synonyms": [
+      "nirn"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "wah",
+    "literal_meaning": [
+      "to"
+    ],
+    "synonyms": [
+      "to",
+      "towards",
+      "against"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "wahl",
+    "literal_meaning": [
+      "build",
+      "construct"
+    ],
+    "synonyms": [
+      "build",
+      "create",
+      "construct",
+      "raise"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "wahlaan",
+    "literal_meaning": [
+      "creation"
+    ],
+    "synonyms": [
+      "creation",
+      "structure"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "wahlaan",
+    "literal_meaning": [
+      "built"
+    ],
+    "synonyms": [
+      "built",
+      "created"
+    ],
+    "word_class": [
+      "verb"
+    ]
+  },
+  {
+    "id": "wen",
+    "literal_meaning": [
+      "whose"
+    ],
+    "synonyms": [
+      "whose"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "werid",
+    "literal_meaning": [
+      "praise"
+    ],
+    "synonyms": [
+      "praise",
+      "honor",
+      "exalt"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "win",
+    "literal_meaning": [
+      "wage"
+    ],
+    "synonyms": [
+      "wage",
+      "fight"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "wo",
+    "literal_meaning": [
+      "who"
+    ],
+    "synonyms": [
+      "who",
+      "whom"
+    ],
+    "word_class": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "wol",
+    "literal_meaning": [
+      "oak"
+    ],
+    "synonyms": [
+      "oak",
+      "wood"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "wuld",
+    "literal_meaning": [
+      "whirlwind"
+    ],
+    "synonyms": [
+      "whirlwind",
+      "vortex"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "wuldsetiid",
+    "literal_meaning": [
+      "whirlwind",
+      "time"
+    ],
+    "synonyms": [
+      "whirlwind",
+      "time"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "wundun",
+    "literal_meaning": [
+      "travel"
+    ],
+    "synonyms": [
+      "travel",
+      "journey"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "wunduniik",
+    "literal_meaning": [
+      "traveller"
+    ],
+    "synonyms": [
+      "traveller"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "wuth",
+    "literal_meaning": [
+      "old",
+      "age"
+    ],
+    "synonyms": [
+      "old",
+      "ancient"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "yah",
+    "literal_meaning": [
+      "seek",
+      "pursuit"
+    ],
+    "synonyms": [
+      "seek",
+      "pursue",
+      "search"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "yol",
+    "literal_meaning": [
+      "fire"
+    ],
+    "synonyms": [
+      "fire"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "yolos",
+    "literal_meaning": [
+      "flame"
+    ],
+    "synonyms": [
+      "flame",
+      "fire"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "yoriik",
+    "literal_meaning": [
+      "march"
+    ],
+    "synonyms": [
+      "march",
+      "advance"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "yuvon",
+    "literal_meaning": [
+      "gold",
+      "golden"
+    ],
+    "synonyms": [
+      "gold",
+      "golden",
+      "rich"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "zaam",
+    "literal_meaning": [
+      "slave"
+    ],
+    "synonyms": [
+      "slave"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "zaamhus",
+    "literal_meaning": [
+      "slavery"
+    ],
+    "synonyms": [
+      "slavery",
+      "enslavement"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "zaan",
+    "literal_meaning": [
+      "shout",
+      "cry"
+    ],
+    "synonyms": [
+      "shout",
+      "yell",
+      "cry"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "zah",
+    "literal_meaning": [
+      "finite"
+    ],
+    "synonyms": [
+      "finite",
+      "limited"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "zahkrii",
+    "literal_meaning": [
+      "sword"
+    ],
+    "synonyms": [
+      "sword",
+      "blade"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "zahrahmiik",
+    "literal_meaning": [
+      "sacrifice"
+    ],
+    "synonyms": [
+      "sacrifice",
+      "offer"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "zeim",
+    "literal_meaning": [
+      "through"
+    ],
+    "synonyms": [
+      "through",
+      "beyond"
+    ],
+    "word_class": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "zein",
+    "literal_meaning": [
+      "worship"
+    ],
+    "synonyms": [
+      "worship"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "zeymah",
+    "literal_meaning": [
+      "brother",
+      "kin"
+    ],
+    "synonyms": [
+      "brother",
+      "kin"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "zeymahzin",
+    "literal_meaning": [
+      "companion"
+    ],
+    "synonyms": [
+      "companion",
+      "ally"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "zii",
+    "literal_meaning": [
+      "spirit",
+      "soul"
+    ],
+    "synonyms": [
+      "spirit",
+      "soul"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "zin",
+    "literal_meaning": [
+      "honor"
+    ],
+    "synonyms": [
+      "honor"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "zind",
+    "literal_meaning": [
+      "triumph"
+    ],
+    "synonyms": [
+      "triumph",
+      "victory"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "zofaas",
+    "literal_meaning": [
+      "fearful",
+      "frightening"
+    ],
+    "synonyms": [
+      "fearful",
+      "frightening",
+      "scary"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "zohungaar",
+    "literal_meaning": [
+      "heroic"
+    ],
+    "synonyms": [
+      "heroic",
+      "brave"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "id": "zok",
+    "literal_meaning": [
+      "great",
+      "most"
+    ],
+    "synonyms": [
+      "great",
+      "most",
+      "greatest"
+    ],
+    "word_class": [
+      "adjective",
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "zol",
+    "literal_meaning": [
+      "zombie"
+    ],
+    "synonyms": [
+      "zombie",
+      "undead"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "zoor",
+    "literal_meaning": [
+      "legend"
+    ],
+    "synonyms": [
+      "legend",
+      "story"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "zorox",
+    "literal_meaning": [
+      "create",
+      "creation"
+    ],
+    "synonyms": [
+      "create",
+      "make"
+    ],
+    "word_class": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "zu'u",
+    "literal_meaning": [
+      "i"
+    ],
+    "synonyms": [
+      "i"
+    ],
+    "word_class": [
+      "pronoun",
+      "verb"
+    ]
+  },
+  {
+    "id": "zul",
+    "literal_meaning": [
+      "voice"
+    ],
+    "synonyms": [
+      "voice"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "zun",
+    "literal_meaning": [
+      "weapon"
+    ],
+    "synonyms": [
+      "weapon"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  }
+]
