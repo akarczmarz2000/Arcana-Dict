@@ -74,12 +74,14 @@ class ArcanaEditorApp:
         self.id_var = tk.StringVar()
         self.literal_meaning_var = tk.StringVar()
         self.synonyms_var = tk.StringVar()
+        self.interpretations_var = tk.StringVar()
         self.word_class_var = tk.StringVar()
 
         self._build_labeled_entry(right_frame, 1, "ID / Word:", self.id_var)
         self._build_labeled_entry(right_frame, 2, "Literal Meaning:", self.literal_meaning_var)
         self._build_labeled_entry(right_frame, 3, "Synonyms:", self.synonyms_var)
-        self._build_labeled_entry(right_frame, 4, "Word Class:", self.word_class_var)
+        self._build_labeled_entry(right_frame, 4, "Interpretations:", self.interpretations_var)
+        self._build_labeled_entry(right_frame, 5, "Word Class:", self.word_class_var)
 
         ttk.Label(
             right_frame,
@@ -114,6 +116,7 @@ class ArcanaEditorApp:
         self.id_var.set("")
         self.literal_meaning_var.set("")
         self.synonyms_var.set("")
+        self.interpretations_var.set("")
         self.word_class_var.set("")
 
     def load_entry_into_fields(self, entry):
@@ -123,6 +126,7 @@ class ArcanaEditorApp:
         self.id_var.set(entry.get("id", ""))
         self.literal_meaning_var.set(", ".join(entry.get("literal_meaning", [])))
         self.synonyms_var.set(", ".join(entry.get("synonyms", [])))
+        self.interpretations_var.set(", ".join(entry.get("interpretations", [])))
         self.word_class_var.set(", ".join(entry.get("word_class", [])))
 
     def build_entry_from_fields(self):
@@ -136,6 +140,7 @@ class ArcanaEditorApp:
             "id": self.id_var.get().strip(),
             "literal_meaning": self.literal_meaning_var.get(),
             "synonyms": self.synonyms_var.get(),
+            "interpretations": self.interpretations_var.get(),
             "word_class": self.word_class_var.get(),
         }
 

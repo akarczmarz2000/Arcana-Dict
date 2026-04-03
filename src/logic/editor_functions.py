@@ -162,6 +162,7 @@ def clean_entry(entry):
         "id": str(entry.get("id", "")).strip(),
         "literal_meaning": clean_list_field(entry.get("literal_meaning", [])),
         "synonyms": clean_list_field(entry.get("synonyms", [])),
+        "interpretations": clean_list_field(entry.get("interpretations", [])),
         "word_class": clean_list_field(entry.get("word_class", [])),
     }
 

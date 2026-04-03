@@ -132,6 +132,7 @@ class ArcanaDictionaryApp:
             f"Word: {entry.get('id')}\n"
             f"Meaning: {', '.join(entry.get('literal_meaning', []))}\n"
             f"Synonyms: {', '.join(entry.get('synonyms', []))}\n"
+            f"Interpretations: {', '.join(entry.get('interpretations', []))}\n"
         )
 
         self.write_details(text)
