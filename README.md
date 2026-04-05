@@ -1,4 +1,4 @@
-# Arcana Dictionary – Version 0.2
+# Arcana Dictionary – Version 0.3
 
 ## Overview
 
@@ -11,17 +11,17 @@ The goal of this project is not only to provide search and translation tools, bu
 ---
 
 ## Next Development Step
+Alternate meanings are extracted from literal meanings in translator. First a word is turned into a token, this token is passed through the code to find any literal meaning matches. If there is a match then the code continues, otherwise it does not attempt an alternative search. The alternative word search takes the synonyms from the exact match and uses those as its search terms, looking for literal meaning of words only to match them against search terms. These terms are then returned and displayed under the header Alternative.
 
-The next stage of development is to expand the dictionary itself.
+This means the level of searches are as follows:
+- Literal meaning search: the program looks for any word matching the token.
+- Synonym meaning search: the program looks at the synonyms held in the dictionary for each word searching for matches to the token.
+- Interpretation meaning search: the program looks at the interpreatiuons held in the dictionary for each word searching for matches to the token.
+- Alternative meaning search: if any literal meanings are matched this search begins. This search takes the synonyms of the literal meaning as saved in the words dictionary entry, and uses those to search words with the same literal meaning. 
 
-The first part of this will focus on broadening existing entries by increasing their **synonym coverage** and introducing a new field called **interpretations**. While synonyms support direct and near-direct equivalence, interpretations will allow entries to carry broader conceptual meanings, intended usage, or alternative ways a word may be understood in practice.
+The aim here is to find any words that are already translated into Arcana, find any words with the same meaning translated in Arcana, find any word that could be interpreated as the same, and finally suggest alternative words that could be used or used for a new search. 
 
-To support this properly, changes will also need to be made to the program structure around it. In particular:
-
-* **UI updates** will be required so interpretations can be clearly displayed alongside the existing word data without making entries difficult to read.
-* **Information validation** will need to be updated to ensure new interpretation data is stored consistently and checked correctly when entries are added, edited, loaded, or searched.
-
-This means the next development step is not only a dictionary expansion, but also a refinement of the systems that display and validate dictionary content.
+Furthermore, slide bars have been added to the translator windows so more text can be sent for translation. And the translated text has been covereted into a box which slides and can be copied through the click of a button, text itself cannot be selected to avoid unforseen interaction errors. 
 
 ---
 

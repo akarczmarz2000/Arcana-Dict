@@ -300,6 +300,29 @@
   {
     "id": "ah",
     "literal_meaning": [
+      "hunter"
+    ],
+    "synonyms": [
+      "tracker",
+      "pursuer",
+      "seeker",
+      "predator"
+    ],
+    "interpretations": [
+      "pursuit",
+      "instinct",
+      "focus",
+      "intent",
+      "survival",
+      "precision"
+    ],
+    "word_class": [
+      "noun"
+    ]
+  },
+  {
+    "id": "aah",
+    "literal_meaning": [
       "embodiment"
     ],
     "synonyms": [
@@ -4331,7 +4354,32 @@
     ]
   },
   {
-    "id": "golah",
+    "id": "goldun",
+    "literal_meaning": [
+      "determined"
+    ],
+    "synonyms": [
+      "resolute",
+      "steadfast",
+      "persistent",
+      "committed",
+      "driven"
+    ],
+    "interpretations": [
+      "persistence",
+      "focus",
+      "will",
+      "endurance",
+      "stability",
+      "strength"
+    ],
+    "word_class": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "id": "golaah",
     "literal_meaning": [
       "stubborn"
     ],
@@ -7941,25 +7989,53 @@
     ]
   },
   {
-    "id": "loah",
+    "id": "lodun",
     "literal_meaning": [
-      "emotional"
+      "empathetic"
     ],
     "synonyms": [
-      "expressive",
-      "feeling",
-      "affective",
-      "sentient"
+      "understanding",
+      "compassionate",
+      "attuned",
+      "sensitive",
+      "perceptive"
     ],
     "interpretations": [
       "emotion",
-      "sensitivity",
-      "intensity",
-      "passion",
-      "empathy"
+      "awareness",
+      "connection",
+      "control",
+      "understanding",
+      "balance"
     ],
     "word_class": [
-      "adjective"
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "id": "loaah",
+    "literal_meaning": [
+      "distraught"
+    ],
+    "synonyms": [
+      "distressed",
+      "troubled",
+      "agitated",
+      "overwhelmed",
+      "tormented"
+    ],
+    "interpretations": [
+      "distress",
+      "turmoil",
+      "confusion",
+      "panic",
+      "instability",
+      "despair"
+    ],
+    "word_class": [
+      "adjective",
+      "noun"
     ]
   },
   {
@@ -13799,31 +13875,52 @@
     ]
   },
   {
-    "id": "suah",
+    "id": "sudun",
     "literal_meaning": [
       "logical"
     ],
     "synonyms": [
       "rational",
-      "analytical",
       "reasoned",
-      "deliberate",
-      "methodical"
+      "analytical",
+      "clear",
+      "structured"
     ],
     "interpretations": [
-      "thought",
-      "mind",
       "clarity",
-      "precision",
-      "control",
-      "knowledge",
-      "insight",
-      "focus"
+      "reason",
+      "focus",
+      "structure",
+      "thought",
+      "direction"
     ],
     "word_class": [
       "adjective",
-      "noun",
-      "verb"
+      "noun"
+    ]
+  },
+  {
+    "id": "suaah",
+    "literal_meaning": [
+      "detached"
+    ],
+    "synonyms": [
+      "separate",
+      "disconnected",
+      "removed",
+      "isolated",
+      "unbound"
+    ],
+    "interpretations": [
+      "separation",
+      "distance",
+      "indifference",
+      "isolation",
+      "withdrawal",
+      "absence"
+    ],
+    "word_class": [
+      "adjective"
     ]
   },
   {
@@ -17132,6 +17229,31 @@
     ]
   },
   {
+    "id": "yoldun",
+    "literal_meaning": [
+      "passionate"
+    ],
+    "synonyms": [
+      "driven",
+      "focused",
+      "fervent",
+      "zealous",
+      "intense"
+    ],
+    "interpretations": [
+      "control",
+      "focus",
+      "drive",
+      "intensity",
+      "purpose",
+      "energy"
+    ],
+    "word_class": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
     "id": "yol",
     "literal_meaning": [
       "fire"
@@ -17182,33 +17304,29 @@
     ]
   },
   {
-      "id": "yolah",
-      "literal_meaning": [
-        "passionate"
-      ],
-      "synonyms": [
-        "ardent",
-        "fervent",
-        "zealous",
-        "intense",
-        "impassioned"
-      ],
-      "interpretations": [
-        "passion",
-        "fire",
-        "desire",
-        "drive",
-        "rage",
-        "devotion",
-        "energy",
-        "fury"
-      ],
-      "word_class": [
-        "adjective",
-        "adverb",
-        "noun",
-        "verb"
-      ]
+    "id": "yolaah",
+    "literal_meaning": [
+      "reckless"
+    ],
+    "synonyms": [
+      "careless",
+      "rash",
+      "heedless",
+      "impulsive",
+      "wild"
+    ],
+    "interpretations": [
+      "impulse",
+      "disregard",
+      "risk",
+      "fury",
+      "instinct",
+      "chaos"
+    ],
+    "word_class": [
+      "adjective",
+      "noun"
+    ]
   },
   {
     "id": "yolos",
